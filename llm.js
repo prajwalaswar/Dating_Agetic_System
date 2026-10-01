@@ -3,7 +3,7 @@ import 'dotenv/config';
 
 const GEMINI_KEY = process.env.GEMINI_API_KEY?.trim();
 const GROQ_KEY = process.env.GROQ_API_KEY?.trim();
-const GEMINI_MODEL = process.env.GEMINI_MODEL?.trim() || 'gemini-2.0-flash';
+const GEMINI_MODEL = process.env.GEMINI_MODEL?.trim() || 'gemini-3.8-flash';
 const GROQ_MODEL = process.env.GROQ_MODEL?.trim() || 'openai/gpt-oss-20b';
 
 export const PROVIDER = GEMINI_KEY ? 'gemini' : GROQ_KEY ? 'groq' : 'none';
@@ -72,7 +72,7 @@ async function callGroq(prompt, { json = false, temperature = 0.7 } = {}) {
   const body = {
     model: GROQ_MODEL,
     temperature,
-    max_tokens: 2048,
+    max_tokens: 1024, // Groq reserves this against the 8k/min TPM budget — keep it tight so calls fit
     messages: [{ role: 'user', content: prompt }],
     ...(json ? { response_format: { type: 'json_object' } } : {}),
   };
@@ -107,10 +107,12 @@ export async function llm(prompt, opts = {}) {
       lastErr = e;
       const msg = String(e?.message || e);
       const rateLimited = /429|rate limit|too many/i.test(msg);
+      const overloaded = /503|unavailable|high demand|overloaded/i.test(msg);
       // try to honor a "try again in Xs" hint
       const hint = msg.match(/in\s+([\d.]+)\s*s/i);
       let waitMs = rateLimited
         ? (hint ? Math.ceil(parseFloat(hint[1]) * 1000) + 400 : 2500 * (attempt + 1))
+        : overloaded ? 1500 * (attempt + 1)
         : 1200;
       waitMs = Math.min(waitMs, 20000);
       if (attempt < maxTries - 1) await new Promise(r => setTimeout(r, waitMs));

@@ -22,7 +22,7 @@ for (const person of bad) {
     process.stdout.write(` ✗${person.name}(${e.message.slice(0, 20)})`);
   }
   save();
-  await sleep(1500);
+  await sleep(4000); // Gemini free tier is generous; light pacing avoids 503 demand spikes
 }
 console.log('\nremaining bad:', s.people.filter(isBad).length);
 
@@ -57,7 +57,7 @@ for (const [aId, bId] of want) {
     ok++; process.stdout.write('.');
     save();
   } catch (e) { process.stdout.write('x'); }
-  await sleep(1200);
+  await sleep(4000);
 }
 console.log('\ndates now:', Object.keys(s.dates).length, '(new ok:', ok, ')');
 console.log('DONE.');
