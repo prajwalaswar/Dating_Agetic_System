@@ -1,0 +1,4933 @@
+{
+  "people": [
+    {
+      "id": "p1",
+      "name": "Sundar Pichai",
+      "linkedin": "https://www.linkedin.com/in/sundarpichai",
+      "instagram": "https://www.instagram.com/sundarpichai",
+      "scraped": {
+        "linkedin": {
+          "source": "linkedin",
+          "url": "https://www.linkedin.com/in/sundarpichai",
+          "slug": "sundarpichai",
+          "ok": false,
+          "name": "Sundarpichai",
+          "headline": "",
+          "about": "",
+          "raw": ""
+        },
+        "instagram": {
+          "source": "instagram",
+          "url": "https://www.instagram.com/sundarpichai",
+          "username": "sundarpichai",
+          "ok": false,
+          "bio": "",
+          "fullName": "",
+          "followers": null,
+          "posts": [],
+          "note": "Instagram rate-limited/blocked this request (anonymous access). Set IG_SESSIONID in .env for reliable results."
+        }
+      },
+      "profile": {
+        "displayName": "Sundar Pichai",
+        "tagline": "Driving the future of technology with vision and humility",
+        "summary": "Sundar Pichai is the CEO of Alphabet, known for steering Google through transformative growth. With a background in engineering and business, he blends technical insight with strategic leadership. He champions innovation, sustainability, and inclusive tech.",
+        "needs": [
+          "intellectual stimulation",
+          "mutual respect for career ambitions",
+          "shared values around innovation and responsibility"
+        ],
+        "hobbies": [
+          "reading",
+          "hiking",
+          "playing tennis"
+        ],
+        "interests": [
+          "technology",
+          "AI",
+          "entrepreneurship",
+          "sustainability"
+        ],
+        "qualities": [
+          "visionary",
+          "strategic thinker",
+          "empathetic leader",
+          "calm under pressure"
+        ],
+        "lookingFor": "Someone intellectually curious, ambitious yet grounded, who values teamwork and shared growth. A partner who can engage in thoughtful conversation and support a fast-paced yet balanced life.",
+        "vibe": "ambitious",
+        "greenFlags": [
+          "values innovation",
+          "commits to lifelong learning",
+          "supports social responsibility"
+        ],
+        "datingStyle": "He prefers a relaxed, respectful setting where meaningful conversation can flow."
+      }
+    },
+    {
+      "id": "p2",
+      "name": "Bill Gates",
+      "linkedin": "https://www.linkedin.com/in/williamhgates",
+      "instagram": "https://www.instagram.com/thisisbillgates",
+      "scraped": {
+        "linkedin": {
+          "source": "linkedin",
+          "url": "https://www.linkedin.com/in/williamhgates",
+          "slug": "williamhgates",
+          "ok": false,
+          "name": "Williamhgates",
+          "headline": "",
+          "about": "",
+          "raw": ""
+        },
+        "instagram": {
+          "source": "instagram",
+          "url": "https://www.instagram.com/thisisbillgates",
+          "username": "thisisbillgates",
+          "ok": false,
+          "bio": "",
+          "fullName": "",
+          "followers": null,
+          "posts": [],
+          "note": "Instagram rate-limited/blocked this request (anonymous access). Set IG_SESSIONID in .env for reliable results."
+        }
+      },
+      "profile": {
+        "displayName": "Bill Gates",
+        "tagline": "Tech visionary, philanthropist, and lifelong learner",
+        "summary": "Bill Gates is a pioneering entrepreneur who co-founded Microsoft, shaping the personal computing revolution. He later devoted his time to global health and education through the Bill & Melinda Gates Foundation. A lifelong learner and advocate for technology-driven solutions, he remains an influential voice in business and philanthropy.",
+        "needs": [
+          "Intellectual stimulation",
+          "Shared passion for innovation",
+          "A partner who values giving back"
+        ],
+        "hobbies": [
+          "Reading",
+          "Playing golf",
+          "Collecting vintage cars"
+        ],
+        "interests": [
+          "Technology",
+          "Global health",
+          "Education reform",
+          "Climate change"
+        ],
+        "qualities": [
+          "Visionary",
+          "Strategic thinker",
+          "Charitable",
+          "Analytical",
+          "Resilient"
+        ],
+        "lookingFor": "Someone who is intellectually curious, driven, and compassionate—someone who can engage in thoughtful conversations about technology, society, and global impact, and who shares a commitment to making a positive difference.",
+        "vibe": "intellectual",
+        "greenFlags": [
+          "Shared values in philanthropy",
+          "Open-mindedness",
+          "Strong communication"
+        ],
+        "datingStyle": "He prefers meaningful conversations and thoughtful gestures over flashy displays, focusing on shared values and intellectual connection."
+      }
+    },
+    {
+      "id": "p3",
+      "name": "Arianna Huffington",
+      "linkedin": "https://www.linkedin.com/in/ariannahuffington",
+      "instagram": "https://www.instagram.com/ariannahuff",
+      "scraped": {
+        "linkedin": {
+          "source": "linkedin",
+          "url": "https://www.linkedin.com/in/ariannahuffington",
+          "slug": "ariannahuffington",
+          "ok": false,
+          "name": "Ariannahuffington",
+          "headline": "",
+          "about": "",
+          "raw": ""
+        },
+        "instagram": {
+          "source": "instagram",
+          "url": "https://www.instagram.com/ariannahuff",
+          "username": "ariannahuff",
+          "ok": false,
+          "bio": "",
+          "fullName": "",
+          "followers": null,
+          "posts": [],
+          "note": "Instagram rate-limited/blocked this request (anonymous access). Set IG_SESSIONID in .env for reliable results."
+        }
+      },
+      "profile": {
+        "displayName": "Arianna Huffington",
+        "tagline": "Champion of wellness and mindful ambition",
+        "summary": "Arianna Huffington is a prominent author, entrepreneur, and wellness advocate, best known for founding the Huffington Post. She blends a passion for business with a deep commitment to health, mindfulness, and social impact. Her public persona reflects ambition, intellectual curiosity, and a nurturing spirit.",
+        "needs": [
+          "shared values in wellness and personal growth",
+          "intellectual curiosity and stimulating conversation",
+          "supportive partnership that respects ambition and boundaries"
+        ],
+        "hobbies": [
+          "yoga",
+          "reading",
+          "hiking",
+          "cooking",
+          "traveling"
+        ],
+        "interests": [
+          "wellness and mindfulness",
+          "women’s empowerment",
+          "sustainable living",
+          "philanthropy",
+          "leadership development"
+        ],
+        "qualities": [
+          "ambitious",
+          "empathetic",
+          "intellectual",
+          "resilient",
+          "visionary"
+        ],
+        "lookingFor": "A partner who shares her passion for personal growth, values a balanced lifestyle, and is supportive of her activism and professional pursuits. They should be intellectually curious, compassionate, and open to meaningful dialogue.",
+        "vibe": "ambitious",
+        "greenFlags": [
+          "commitment to wellness and self-care",
+          "respect for boundaries and personal space",
+          "open communication",
+          "shared values around social impact"
+        ],
+        "datingStyle": "She likely brings thoughtful conversation, respects personal space, and seeks a meaningful, balanced connection"
+      }
+    },
+    {
+      "id": "p4",
+      "name": "Richard Branson",
+      "linkedin": "https://www.linkedin.com/in/rbranson",
+      "instagram": "https://www.instagram.com/richardbranson",
+      "scraped": {
+        "linkedin": {
+          "source": "linkedin",
+          "url": "https://www.linkedin.com/in/rbranson",
+          "slug": "rbranson",
+          "ok": false,
+          "name": "Rbranson",
+          "headline": "",
+          "about": "",
+          "raw": ""
+        },
+        "instagram": {
+          "source": "instagram",
+          "url": "https://www.instagram.com/richardbranson",
+          "username": "richardbranson",
+          "ok": false,
+          "bio": "",
+          "fullName": "",
+          "followers": null,
+          "posts": [],
+          "note": "Instagram rate-limited/blocked this request (anonymous access). Set IG_SESSIONID in .env for reliable results."
+        }
+      },
+      "profile": {
+        "displayName": "Richard Branson",
+        "tagline": "Adventure‑driven entrepreneur who turns daring ideas into global brands",
+        "summary": "Richard Branson is the charismatic founder of the Virgin Group, known for his bold ventures across airlines, music, and space travel. He blends business acumen with a passion for adventure and philanthropy, consistently pushing the limits of what’s possible. His public persona is a mix of visionary leadership and approachable enthusiasm.",
+        "needs": [
+          "A partner who shares his curiosity and willingness to explore new horizons",
+          "Someone who is supportive of his entrepreneurial pursuits and can balance ambition with groundedness",
+          "A person who values open communication and mutual growth"
+        ],
+        "hobbies": [
+          "Traveling to new destinations",
+          "Flying private planes and piloting small aircraft",
+          "Sailing and water sports",
+          "Reading business and self‑improvement books",
+          "Philanthropic volunteering",
+          "Collecting vintage cars"
+        ],
+        "interests": [
+          "Entrepreneurship and startup culture",
+          "Technology and innovation",
+          "Space exploration",
+          "Music and the arts",
+          "Environmental sustainability",
+          "Social impact initiatives",
+          "Adventure sports"
+        ],
+        "qualities": [
+          "Visionary",
+          "Charismatic",
+          "Risk‑taker",
+          "Generous",
+          "Resilient",
+          "Optimistic",
+          "Humorous",
+          "Open‑minded"
+        ],
+        "lookingFor": "A partner who is adventurous, intellectually curious, and supportive of ambitious goals. They should be open to spontaneous trips, share a love for learning, and have a strong sense of humor to keep life exciting.",
+        "vibe": "adventurous",
+        "greenFlags": [
+          "Shared sense of humor",
+          "Open communication",
+          "Supportive of each other’s goals",
+          "Willingness to try new experiences",
+          "Respect for personal space and independence"
+        ],
+        "datingStyle": "Spontaneous and relaxed, preferring shared adventures and meaningful conversations over formal settings"
+      }
+    },
+    {
+      "id": "p5",
+      "name": "Gary Vaynerchuk",
+      "linkedin": "https://www.linkedin.com/in/garyvaynerchuk",
+      "instagram": "https://www.instagram.com/garyvee",
+      "scraped": {
+        "linkedin": {
+          "source": "linkedin",
+          "url": "https://www.linkedin.com/in/garyvaynerchuk",
+          "slug": "garyvaynerchuk",
+          "ok": false,
+          "name": "Garyvaynerchuk",
+          "headline": "",
+          "about": "",
+          "raw": ""
+        },
+        "instagram": {
+          "source": "instagram",
+          "url": "https://www.instagram.com/garyvee",
+          "username": "garyvee",
+          "ok": false,
+          "bio": "",
+          "fullName": "",
+          "followers": null,
+          "posts": [],
+          "note": "Instagram rate-limited/blocked this request (anonymous access). Set IG_SESSIONID in .env for reliable results."
+        }
+      },
+      "profile": {
+        "displayName": "Gary Vaynerchuk",
+        "tagline": "The hustle guru who turns ideas into empire.",
+        "summary": "Gary Vaynerchuk is a serial entrepreneur, investor, and social media powerhouse known for building VaynerMedia and VaynerX. He shares motivational content, business insights, and personal anecdotes across platforms. His high-energy, candid style inspires millions to pursue passion and hustle.",
+        "needs": [
+          "ambition",
+          "supportive partner",
+          "someone who keeps up with his fast pace"
+        ],
+        "hobbies": [
+          "reading",
+          "networking",
+          "traveling"
+        ],
+        "interests": [
+          "entrepreneurship",
+          "marketing",
+          "podcasting"
+        ],
+        "qualities": [
+          "energetic",
+          "visionary",
+          "empathetic",
+          "direct"
+        ],
+        "lookingFor": "Someone driven, curious, and supportive—someone who can keep up with a fast-paced lifestyle and shares a love for growth and innovation.",
+        "vibe": "ambitious",
+        "greenFlags": [
+          "motivated",
+          "goal-oriented",
+          "open to learning",
+          "values communication"
+        ],
+        "datingStyle": "He likely keeps the conversation lively, shares personal stories, and encourages mutual growth."
+      }
+    },
+    {
+      "id": "p6",
+      "name": "Reid Hoffman",
+      "linkedin": "https://www.linkedin.com/in/reidhoffman",
+      "instagram": "https://www.instagram.com/reidhoffman",
+      "scraped": {
+        "linkedin": {
+          "source": "linkedin",
+          "url": "https://www.linkedin.com/in/reidhoffman",
+          "slug": "reidhoffman",
+          "ok": false,
+          "name": "Reidhoffman",
+          "headline": "",
+          "about": "",
+          "raw": ""
+        },
+        "instagram": {
+          "source": "instagram",
+          "url": "https://www.instagram.com/reidhoffman",
+          "username": "reidhoffman",
+          "ok": false,
+          "bio": "",
+          "fullName": "",
+          "followers": null,
+          "posts": [],
+          "note": "Instagram rate-limited/blocked this request (anonymous access). Set IG_SESSIONID in .env for reliable results."
+        }
+      },
+      "profile": {
+        "displayName": "Reid Hoffman",
+        "tagline": "Tech visionary with a passion for connecting people",
+        "summary": "Co‑founder of LinkedIn, venture capitalist, author, and philanthropist, Reid has spent his career building platforms that bring people together and investing in transformative tech. He blends strategic insight with a curiosity about how technology can shape society, and he’s known for his thought leadership in entrepreneurship and social impact.",
+        "needs": [
+          "shared intellectual curiosity",
+          "ambition and drive",
+          "a partner who values growth and learning"
+        ],
+        "hobbies": [
+          "reading",
+          "traveling",
+          "playing chess",
+          "hiking"
+        ],
+        "interests": [
+          "technology",
+          "entrepreneurship",
+          "social impact",
+          "philanthropy",
+          "innovation"
+        ],
+        "qualities": [
+          "visionary",
+          "strategic",
+          "empathetic",
+          "curious",
+          "resilient"
+        ],
+        "lookingFor": "Someone who is intellectually engaged, ambitious, and values continuous learning. A partner who can keep up with his fast pace and shares a passion for making a positive impact.",
+        "vibe": "ambitious",
+        "greenFlags": [
+          "values education",
+          "supports social causes",
+          "open to new ideas"
+        ],
+        "datingStyle": "He likely prefers thoughtful conversation and shared interests over flashy displays."
+      }
+    },
+    {
+      "id": "p7",
+      "name": "Melinda French Gates",
+      "linkedin": "https://www.linkedin.com/in/melindagates",
+      "instagram": "https://www.instagram.com/melindafrenchgates",
+      "scraped": {
+        "linkedin": {
+          "source": "linkedin",
+          "url": "https://www.linkedin.com/in/melindagates",
+          "slug": "melindagates",
+          "ok": false,
+          "name": "Melindagates",
+          "headline": "",
+          "about": "",
+          "raw": ""
+        },
+        "instagram": {
+          "source": "instagram",
+          "url": "https://www.instagram.com/melindafrenchgates",
+          "username": "melindafrenchgates",
+          "ok": false,
+          "bio": "",
+          "fullName": "",
+          "followers": null,
+          "posts": [],
+          "note": "Instagram rate-limited/blocked this request (anonymous access). Set IG_SESSIONID in .env for reliable results."
+        }
+      },
+      "profile": {
+        "displayName": "Melinda French Gates",
+        "tagline": "Analysis unavailable",
+        "summary": "Could not analyze this profile: Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01jy9ddtnbek7vfjxq6cq66gjk` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199016, Requested 1544. Please try again in 4m1.92s. Need more tokens? Upgrade to Dev Tier today at https://con",
+        "needs": [],
+        "hobbies": [],
+        "interests": [],
+        "qualities": [],
+        "greenFlags": [],
+        "lookingFor": "",
+        "vibe": "reserved",
+        "datingStyle": ""
+      }
+    },
+    {
+      "id": "p8",
+      "name": "Satya Nadella",
+      "linkedin": "https://www.linkedin.com/in/satyanadella",
+      "instagram": "https://www.instagram.com/satyanadella",
+      "scraped": {
+        "linkedin": {
+          "source": "linkedin",
+          "url": "https://www.linkedin.com/in/satyanadella",
+          "slug": "satyanadella",
+          "ok": false,
+          "name": "Satyanadella",
+          "headline": "",
+          "about": "",
+          "raw": ""
+        },
+        "instagram": {
+          "source": "instagram",
+          "url": "https://www.instagram.com/satyanadella",
+          "username": "satyanadella",
+          "ok": false,
+          "bio": "",
+          "fullName": "",
+          "followers": null,
+          "posts": [],
+          "note": "Instagram rate-limited/blocked this request (anonymous access). Set IG_SESSIONID in .env for reliable results."
+        }
+      },
+      "profile": {
+        "displayName": "Satya Nadella",
+        "tagline": "Leading with empathy and innovation",
+        "summary": "Satya Nadella is the CEO of Microsoft, known for steering the company toward cloud computing and AI while championing diversity and sustainability. With a background in electrical engineering and a career spanning over three decades at Microsoft, he has a reputation for thoughtful leadership and a focus on empowering people. Outside work, he values family, reading, and outdoor adventures.",
+        "needs": [
+          "a partner who shares a passion for lifelong learning",
+          "someone who values empathy and collaboration",
+          "a person who enjoys both intellectual discussions and relaxed moments"
+        ],
+        "hobbies": [
+          "hiking",
+          "reading sci‑fi novels",
+          "playing guitar"
+        ],
+        "interests": [
+          "cloud computing",
+          "AI ethics",
+          "sustainability initiatives"
+        ],
+        "qualities": [
+          "empathetic",
+          "strategic thinker",
+          "grounded"
+        ],
+        "lookingFor": "Someone who is intellectually curious, values teamwork and empathy, and enjoys a balanced life that blends career ambition with personal growth. A partner who can engage in thoughtful conversation and also appreciate quiet moments together.",
+        "vibe": "ambitious",
+        "greenFlags": [
+          "values diversity and inclusion",
+          "committed to continuous learning",
+          "supports community outreach"
+        ],
+        "datingStyle": "He would likely appreciate a thoughtful, respectful approach, valuing deep conversation and shared values over flashy displays."
+      }
+    },
+    {
+      "id": "p9",
+      "name": "Sheryl Sandberg",
+      "linkedin": "https://www.linkedin.com/in/sheryl-sandberg",
+      "instagram": "https://www.instagram.com/sherylsandberg",
+      "scraped": {
+        "linkedin": {
+          "source": "linkedin",
+          "url": "https://www.linkedin.com/in/sheryl-sandberg",
+          "slug": "sheryl-sandberg",
+          "ok": false,
+          "name": "Sheryl",
+          "headline": "",
+          "about": "",
+          "raw": ""
+        },
+        "instagram": {
+          "source": "instagram",
+          "url": "https://www.instagram.com/sherylsandberg",
+          "username": "sherylsandberg",
+          "ok": false,
+          "bio": "",
+          "fullName": "",
+          "followers": null,
+          "posts": [],
+          "note": "Instagram rate-limited/blocked this request (anonymous access). Set IG_SESSIONID in .env for reliable results."
+        }
+      },
+      "profile": {
+        "displayName": "Sheryl Sandberg",
+        "tagline": "Powerful leader, advocate for women, and tech visionary",
+        "summary": "Sheryl Sandberg is a highly influential business executive, former COO of Meta, author of the best‑selling book \"Lean In\", and a prominent advocate for gender equality in the workplace. With a strong background in finance and technology, she has built a reputation for strategic thinking and empowering women to pursue leadership roles. She balances a demanding career with a commitment to philanthropy and social causes.",
+        "needs": [
+          "someone who shares her passion for equality",
+          "a partner who values ambition and growth",
+          "someone who can match her drive and work ethic"
+        ],
+        "hobbies": [
+          "reading leadership books",
+          "attending industry conferences",
+          "volunteering with women's groups",
+          "playing tennis",
+          "traveling"
+        ],
+        "interests": [
+          "technology",
+          "gender equality",
+          "business strategy",
+          "philanthropy",
+          "personal development"
+        ],
+        "qualities": [
+          "ambitious",
+          "strategic",
+          "empathetic",
+          "resilient",
+          "communicative"
+        ],
+        "lookingFor": "Looking for a confident, intellectually curious partner who values gender equity and is driven to make a positive impact. Someone who can keep up with her dynamic lifestyle and shares her enthusiasm for continuous learning.",
+        "vibe": "ambitious",
+        "greenFlags": [
+          "shares commitment to gender equality",
+          "supports her philanthropic work",
+          "values work‑life balance",
+          "communicates openly",
+          "has a growth mindset"
+        ],
+        "datingStyle": "She would likely be thoughtful, respectful, and eager to connect on shared values, while also showing her strong, confident personality."
+      }
+    },
+    {
+      "id": "p10",
+      "name": "Marc Benioff",
+      "linkedin": "https://www.linkedin.com/in/marcbenioff",
+      "instagram": "https://www.instagram.com/marcbenioff",
+      "scraped": {
+        "linkedin": {
+          "source": "linkedin",
+          "url": "https://www.linkedin.com/in/marcbenioff",
+          "slug": "marcbenioff",
+          "ok": false,
+          "name": "Marcbenioff",
+          "headline": "",
+          "about": "",
+          "raw": ""
+        },
+        "instagram": {
+          "source": "instagram",
+          "url": "https://www.instagram.com/marcbenioff",
+          "username": "marcbenioff",
+          "ok": false,
+          "bio": "",
+          "fullName": "",
+          "followers": null,
+          "posts": [],
+          "note": "Instagram rate-limited/blocked this request (anonymous access). Set IG_SESSIONID in .env for reliable results."
+        }
+      },
+      "profile": {
+        "displayName": "Marc Benioff",
+        "tagline": "Analysis unavailable",
+        "summary": "Could not analyze this profile: Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01jy9ddtnbek7vfjxq6cq66gjk` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198975, Requested 1633. Please try again in 4m22.656s. Need more tokens? Upgrade to Dev Tier today at https://c",
+        "needs": [],
+        "hobbies": [],
+        "interests": [],
+        "qualities": [],
+        "greenFlags": [],
+        "lookingFor": "",
+        "vibe": "reserved",
+        "datingStyle": ""
+      }
+    },
+    {
+      "id": "p11",
+      "name": "Whitney Wolfe Herd",
+      "linkedin": "https://www.linkedin.com/in/whitney-wolfe-herd",
+      "instagram": "https://www.instagram.com/whitney",
+      "scraped": {
+        "linkedin": {
+          "source": "linkedin",
+          "url": "https://www.linkedin.com/in/whitney-wolfe-herd",
+          "slug": "whitney-wolfe-herd",
+          "ok": false,
+          "name": "Whitney Wolfe Herd",
+          "headline": "",
+          "about": "",
+          "raw": ""
+        },
+        "instagram": {
+          "source": "instagram",
+          "url": "https://www.instagram.com/whitney",
+          "username": "whitney",
+          "ok": false,
+          "bio": "",
+          "fullName": "",
+          "followers": null,
+          "posts": [],
+          "note": "Instagram rate-limited/blocked this request (anonymous access). Set IG_SESSIONID in .env for reliable results."
+        }
+      },
+      "profile": {
+        "displayName": "Whitney Wolfe Herd",
+        "tagline": "Analysis unavailable",
+        "summary": "Could not analyze this profile: Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01jy9ddtnbek7vfjxq6cq66gjk` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198956, Requested 1543. Please try again in 3m35.567999999s. Need more tokens? Upgrade to Dev Tier today at htt",
+        "needs": [],
+        "hobbies": [],
+        "interests": [],
+        "qualities": [],
+        "greenFlags": [],
+        "lookingFor": "",
+        "vibe": "reserved",
+        "datingStyle": ""
+      }
+    },
+    {
+      "id": "p12",
+      "name": "Neil Patel",
+      "linkedin": "https://www.linkedin.com/in/neilkpatel",
+      "instagram": "https://www.instagram.com/neilpatel",
+      "scraped": {
+        "linkedin": {
+          "source": "linkedin",
+          "url": "https://www.linkedin.com/in/neilkpatel",
+          "slug": "neilkpatel",
+          "ok": false,
+          "name": "Neilkpatel",
+          "headline": "",
+          "about": "",
+          "raw": ""
+        },
+        "instagram": {
+          "source": "instagram",
+          "url": "https://www.instagram.com/neilpatel",
+          "username": "neilpatel",
+          "ok": false,
+          "bio": "",
+          "fullName": "",
+          "followers": null,
+          "posts": [],
+          "note": "Instagram rate-limited/blocked this request (anonymous access). Set IG_SESSIONID in .env for reliable results."
+        }
+      },
+      "profile": {
+        "displayName": "Neil Patel",
+        "tagline": "Analysis unavailable",
+        "summary": "Could not analyze this profile: Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01jy9ddtnbek7vfjxq6cq66gjk` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198915, Requested 1337. Please try again in 1m48.864s. Need more tokens? Upgrade to Dev Tier today at https://c",
+        "needs": [],
+        "hobbies": [],
+        "interests": [],
+        "qualities": [],
+        "greenFlags": [],
+        "lookingFor": "",
+        "vibe": "reserved",
+        "datingStyle": ""
+      }
+    },
+    {
+      "id": "p13",
+      "name": "Mark Cuban",
+      "linkedin": "https://www.linkedin.com/in/mark-cuban",
+      "instagram": "https://www.instagram.com/mcuban",
+      "scraped": {
+        "linkedin": {
+          "source": "linkedin",
+          "url": "https://www.linkedin.com/in/mark-cuban",
+          "slug": "mark-cuban",
+          "ok": false,
+          "name": "Mark Cuban",
+          "headline": "",
+          "about": "",
+          "raw": ""
+        },
+        "instagram": {
+          "source": "instagram",
+          "url": "https://www.instagram.com/mcuban",
+          "username": "mcuban",
+          "ok": false,
+          "bio": "",
+          "fullName": "",
+          "followers": null,
+          "posts": [],
+          "note": "Instagram rate-limited/blocked this request (anonymous access). Set IG_SESSIONID in .env for reliable results."
+        }
+      },
+      "profile": {
+        "displayName": "Mark Cuban",
+        "tagline": "Analysis unavailable",
+        "summary": "Could not analyze this profile: Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01jy9ddtnbek7vfjxq6cq66gjk` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198897, Requested 1334. Please try again in 1m39.792s. Need more tokens? Upgrade to Dev Tier today at https://c",
+        "needs": [],
+        "hobbies": [],
+        "interests": [],
+        "qualities": [],
+        "greenFlags": [],
+        "lookingFor": "",
+        "vibe": "reserved",
+        "datingStyle": ""
+      }
+    },
+    {
+      "id": "p14",
+      "name": "Jay Shetty",
+      "linkedin": "https://www.linkedin.com/in/jayshetty",
+      "instagram": "https://www.instagram.com/jayshetty",
+      "scraped": {
+        "linkedin": {
+          "source": "linkedin",
+          "url": "https://www.linkedin.com/in/jayshetty",
+          "slug": "jayshetty",
+          "ok": false,
+          "name": "Jayshetty",
+          "headline": "",
+          "about": "",
+          "raw": ""
+        },
+        "instagram": {
+          "source": "instagram",
+          "url": "https://www.instagram.com/jayshetty",
+          "username": "jayshetty",
+          "ok": false,
+          "bio": "",
+          "fullName": "",
+          "followers": null,
+          "posts": [],
+          "note": "Instagram rate-limited/blocked this request (anonymous access). Set IG_SESSIONID in .env for reliable results."
+        }
+      },
+      "profile": {
+        "displayName": "Jay Shetty",
+        "tagline": "Analysis unavailable",
+        "summary": "Could not analyze this profile: Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01jy9ddtnbek7vfjxq6cq66gjk` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198855, Requested 1538. Please try again in 2m49.776s. Need more tokens? Upgrade to Dev Tier today at https://c",
+        "needs": [],
+        "hobbies": [],
+        "interests": [],
+        "qualities": [],
+        "greenFlags": [],
+        "lookingFor": "",
+        "vibe": "reserved",
+        "datingStyle": ""
+      }
+    },
+    {
+      "id": "p15",
+      "name": "Tim Ferriss",
+      "linkedin": "https://www.linkedin.com/in/timferriss",
+      "instagram": "https://www.instagram.com/timferriss",
+      "scraped": {
+        "linkedin": {
+          "source": "linkedin",
+          "url": "https://www.linkedin.com/in/timferriss",
+          "slug": "timferriss",
+          "ok": false,
+          "name": "Timferriss",
+          "headline": "",
+          "about": "",
+          "raw": ""
+        },
+        "instagram": {
+          "source": "instagram",
+          "url": "https://www.instagram.com/timferriss",
+          "username": "timferriss",
+          "ok": false,
+          "bio": "",
+          "fullName": "",
+          "followers": null,
+          "posts": [],
+          "note": "Instagram rate-limited/blocked this request (anonymous access). Set IG_SESSIONID in .env for reliable results."
+        }
+      },
+      "profile": {
+        "displayName": "Tim Ferriss",
+        "tagline": "Analysis unavailable",
+        "summary": "Could not analyze this profile: Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01jy9ddtnbek7vfjxq6cq66gjk` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198837, Requested 1340. Please try again in 1m16.464s. Need more tokens? Upgrade to Dev Tier today at https://c",
+        "needs": [],
+        "hobbies": [],
+        "interests": [],
+        "qualities": [],
+        "greenFlags": [],
+        "lookingFor": "",
+        "vibe": "reserved",
+        "datingStyle": ""
+      }
+    },
+    {
+      "id": "p16",
+      "name": "Simon Sinek",
+      "linkedin": "https://www.linkedin.com/in/simonsinek",
+      "instagram": "https://www.instagram.com/simonsinek",
+      "scraped": {
+        "linkedin": {
+          "source": "linkedin",
+          "url": "https://www.linkedin.com/in/simonsinek",
+          "slug": "simonsinek",
+          "ok": false,
+          "name": "Simonsinek",
+          "headline": "",
+          "about": "",
+          "raw": ""
+        },
+        "instagram": {
+          "source": "instagram",
+          "url": "https://www.instagram.com/simonsinek",
+          "username": "simonsinek",
+          "ok": false,
+          "bio": "",
+          "fullName": "",
+          "followers": null,
+          "posts": [],
+          "note": "Instagram rate-limited/blocked this request (anonymous access). Set IG_SESSIONID in .env for reliable results."
+        }
+      },
+      "profile": {
+        "displayName": "Simon Sinek",
+        "tagline": "Analysis unavailable",
+        "summary": "Could not analyze this profile: Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01jy9ddtnbek7vfjxq6cq66gjk` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198795, Requested 1337. Please try again in 57.024s. Need more tokens? Upgrade to Dev Tier today at https://con",
+        "needs": [],
+        "hobbies": [],
+        "interests": [],
+        "qualities": [],
+        "greenFlags": [],
+        "lookingFor": "",
+        "vibe": "reserved",
+        "datingStyle": ""
+      }
+    },
+    {
+      "id": "p17",
+      "name": "Mel Robbins",
+      "linkedin": "https://www.linkedin.com/in/melrobbins",
+      "instagram": "https://www.instagram.com/melrobbins",
+      "scraped": {
+        "linkedin": {
+          "source": "linkedin",
+          "url": "https://www.linkedin.com/in/melrobbins",
+          "slug": "melrobbins",
+          "ok": false,
+          "name": "Melrobbins",
+          "headline": "",
+          "about": "",
+          "raw": ""
+        },
+        "instagram": {
+          "source": "instagram",
+          "url": "https://www.instagram.com/melrobbins",
+          "username": "melrobbins",
+          "ok": false,
+          "bio": "",
+          "fullName": "",
+          "followers": null,
+          "posts": [],
+          "note": "Instagram rate-limited/blocked this request (anonymous access). Set IG_SESSIONID in .env for reliable results."
+        }
+      },
+      "profile": {
+        "displayName": "Mel Robbins",
+        "tagline": "Analysis unavailable",
+        "summary": "Could not analyze this profile: Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01jy9ddtnbek7vfjxq6cq66gjk` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198777, Requested 1339. Please try again in 50.112s. Need more tokens? Upgrade to Dev Tier today at https://con",
+        "needs": [],
+        "hobbies": [],
+        "interests": [],
+        "qualities": [],
+        "greenFlags": [],
+        "lookingFor": "",
+        "vibe": "reserved",
+        "datingStyle": ""
+      }
+    },
+    {
+      "id": "p18",
+      "name": "Steven Bartlett",
+      "linkedin": "https://www.linkedin.com/in/stevenbartlett-123",
+      "instagram": "https://www.instagram.com/steven",
+      "scraped": {
+        "linkedin": {
+          "source": "linkedin",
+          "url": "https://www.linkedin.com/in/stevenbartlett-123",
+          "slug": "stevenbartlett-123",
+          "ok": false,
+          "name": "Stevenbartlett 123",
+          "headline": "",
+          "about": "",
+          "raw": ""
+        },
+        "instagram": {
+          "source": "instagram",
+          "url": "https://www.instagram.com/steven",
+          "username": "steven",
+          "ok": false,
+          "bio": "",
+          "fullName": "",
+          "followers": null,
+          "posts": [],
+          "note": "Instagram rate-limited/blocked this request (anonymous access). Set IG_SESSIONID in .env for reliable results."
+        }
+      },
+      "profile": {
+        "displayName": "Steven Bartlett",
+        "tagline": "Analysis unavailable",
+        "summary": "Could not analyze this profile: Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01jy9ddtnbek7vfjxq6cq66gjk` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198735, Requested 1340. Please try again in 32.4s. Need more tokens? Upgrade to Dev Tier today at https://conso",
+        "needs": [],
+        "hobbies": [],
+        "interests": [],
+        "qualities": [],
+        "greenFlags": [],
+        "lookingFor": "",
+        "vibe": "reserved",
+        "datingStyle": ""
+      }
+    },
+    {
+      "id": "p19",
+      "name": "Daymond John",
+      "linkedin": "https://www.linkedin.com/in/daymondjohn",
+      "instagram": "https://www.instagram.com/thesharkdaymond",
+      "scraped": {
+        "linkedin": {
+          "source": "linkedin",
+          "url": "https://www.linkedin.com/in/daymondjohn",
+          "slug": "daymondjohn",
+          "ok": false,
+          "name": "Daymondjohn",
+          "headline": "",
+          "about": "",
+          "raw": ""
+        },
+        "instagram": {
+          "source": "instagram",
+          "url": "https://www.instagram.com/thesharkdaymond",
+          "username": "thesharkdaymond",
+          "ok": false,
+          "bio": "",
+          "fullName": "",
+          "followers": null,
+          "posts": [],
+          "note": "Instagram rate-limited/blocked this request (anonymous access). Set IG_SESSIONID in .env for reliable results."
+        }
+      },
+      "profile": {
+        "displayName": "Daymond John",
+        "tagline": "Analysis unavailable",
+        "summary": "Could not analyze this profile: Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01jy9ddtnbek7vfjxq6cq66gjk` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198682, Requested 1629. Please try again in 2m14.352s. Need more tokens? Upgrade to Dev Tier today at https://c",
+        "needs": [],
+        "hobbies": [],
+        "interests": [],
+        "qualities": [],
+        "greenFlags": [],
+        "lookingFor": "",
+        "vibe": "reserved",
+        "datingStyle": ""
+      }
+    },
+    {
+      "id": "p20",
+      "name": "Barbara Corcoran",
+      "linkedin": "https://www.linkedin.com/in/barbaracorcoran",
+      "instagram": "https://www.instagram.com/barbaracorcoran",
+      "scraped": {
+        "linkedin": {
+          "source": "linkedin",
+          "url": "https://www.linkedin.com/in/barbaracorcoran",
+          "slug": "barbaracorcoran",
+          "ok": false,
+          "name": "Barbaracorcoran",
+          "headline": "",
+          "about": "",
+          "raw": ""
+        },
+        "instagram": {
+          "source": "instagram",
+          "url": "https://www.instagram.com/barbaracorcoran",
+          "username": "barbaracorcoran",
+          "ok": false,
+          "bio": "",
+          "fullName": "",
+          "followers": null,
+          "posts": [],
+          "note": "Instagram rate-limited/blocked this request (anonymous access). Set IG_SESSIONID in .env for reliable results."
+        }
+      },
+      "profile": {
+        "displayName": "Barbara Corcoran",
+        "tagline": "Analysis unavailable",
+        "summary": "Could not analyze this profile: Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01jy9ddtnbek7vfjxq6cq66gjk` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199979, Requested 1633. Please try again in 11m36.383999999s. Need more tokens? Upgrade to Dev Tier today at ht",
+        "needs": [],
+        "hobbies": [],
+        "interests": [],
+        "qualities": [],
+        "greenFlags": [],
+        "lookingFor": "",
+        "vibe": "reserved",
+        "datingStyle": ""
+      }
+    },
+    {
+      "id": "p21",
+      "name": "Guy Kawasaki",
+      "linkedin": "https://www.linkedin.com/in/guykawasaki",
+      "instagram": "https://www.instagram.com/guykawasaki",
+      "scraped": {
+        "linkedin": {
+          "source": "linkedin",
+          "url": "https://www.linkedin.com/in/guykawasaki",
+          "slug": "guykawasaki",
+          "ok": false,
+          "name": "Guykawasaki",
+          "headline": "",
+          "about": "",
+          "raw": ""
+        },
+        "instagram": {
+          "source": "instagram",
+          "url": "https://www.instagram.com/guykawasaki",
+          "username": "guykawasaki",
+          "ok": false,
+          "bio": "",
+          "fullName": "",
+          "followers": null,
+          "posts": [],
+          "note": "Instagram rate-limited/blocked this request (anonymous access). Set IG_SESSIONID in .env for reliable results."
+        }
+      },
+      "profile": {
+        "displayName": "Guy Kawasaki",
+        "tagline": "Serial entrepreneur, marketing maverick, and evangelist of innovation.",
+        "summary": "Guy Kawasaki is a former Apple executive turned venture capitalist, author, and public speaker known for his work on marketing and entrepreneurship. He has a reputation for being a charismatic thought leader and a mentor to startups. He also writes books and blogs about business, technology, and personal growth.",
+        "needs": [
+          "intellectual stimulation",
+          "adventure and travel",
+          "ambition and drive"
+        ],
+        "hobbies": [
+          "reading",
+          "speaking at conferences",
+          "traveling",
+          "writing"
+        ],
+        "interests": [
+          "technology trends",
+          "entrepreneurship",
+          "innovation",
+          "design thinking"
+        ],
+        "qualities": [
+          "charismatic",
+          "visionary",
+          "mentor",
+          "energetic"
+        ],
+        "lookingFor": "Someone who shares a passion for learning, enjoys intellectual conversations, and is comfortable with the fast-paced world of startups and innovation.",
+        "vibe": "ambitious",
+        "greenFlags": [
+          "shares a love for technology and innovation",
+          "values continuous learning",
+          "has a sense of humor"
+        ],
+        "datingStyle": "He would likely be engaging, energetic, and open to deep conversations, perhaps with a touch of humor."
+      }
+    },
+    {
+      "id": "p22",
+      "name": "Ann Handley",
+      "linkedin": "https://www.linkedin.com/in/annhandley",
+      "instagram": "https://www.instagram.com/annhandley",
+      "scraped": {
+        "linkedin": {
+          "source": "linkedin",
+          "url": "https://www.linkedin.com/in/annhandley",
+          "slug": "annhandley",
+          "ok": false,
+          "name": "Annhandley",
+          "headline": "",
+          "about": "",
+          "raw": ""
+        },
+        "instagram": {
+          "source": "instagram",
+          "url": "https://www.instagram.com/annhandley",
+          "username": "annhandley",
+          "ok": false,
+          "bio": "",
+          "fullName": "",
+          "followers": null,
+          "posts": [],
+          "note": "Instagram rate-limited/blocked this request (anonymous access). Set IG_SESSIONID in .env for reliable results."
+        }
+      },
+      "profile": {
+        "displayName": "Ann Handley",
+        "tagline": "Analysis unavailable",
+        "summary": "Could not analyze this profile: Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01jy9ddtnbek7vfjxq6cq66gjk` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199941, Requested 1538. Please try again in 10m38.928s. Need more tokens? Upgrade to Dev Tier today at https://",
+        "needs": [],
+        "hobbies": [],
+        "interests": [],
+        "qualities": [],
+        "greenFlags": [],
+        "lookingFor": "",
+        "vibe": "reserved",
+        "datingStyle": ""
+      }
+    },
+    {
+      "id": "p23",
+      "name": "Seth Godin",
+      "linkedin": "https://www.linkedin.com/in/sethgodin",
+      "instagram": "https://www.instagram.com/sethgodin",
+      "scraped": {
+        "linkedin": {
+          "source": "linkedin",
+          "url": "https://www.linkedin.com/in/sethgodin",
+          "slug": "sethgodin",
+          "ok": false,
+          "name": "Sethgodin",
+          "headline": "",
+          "about": "",
+          "raw": ""
+        },
+        "instagram": {
+          "source": "instagram",
+          "url": "https://www.instagram.com/sethgodin",
+          "username": "sethgodin",
+          "ok": false,
+          "bio": "",
+          "fullName": "",
+          "followers": null,
+          "posts": [],
+          "note": "Instagram rate-limited/blocked this request (anonymous access). Set IG_SESSIONID in .env for reliable results."
+        }
+      },
+      "profile": {
+        "displayName": "Seth Godin",
+        "tagline": "Analysis unavailable",
+        "summary": "Could not analyze this profile: Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01jy9ddtnbek7vfjxq6cq66gjk` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199919, Requested 1538. Please try again in 10m29.424s. Need more tokens? Upgrade to Dev Tier today at https://",
+        "needs": [],
+        "hobbies": [],
+        "interests": [],
+        "qualities": [],
+        "greenFlags": [],
+        "lookingFor": "",
+        "vibe": "reserved",
+        "datingStyle": ""
+      }
+    },
+    {
+      "id": "p24",
+      "name": "Brene Brown",
+      "linkedin": "https://www.linkedin.com/in/brenebrown",
+      "instagram": "https://www.instagram.com/brenebrown",
+      "scraped": {
+        "linkedin": {
+          "source": "linkedin",
+          "url": "https://www.linkedin.com/in/brenebrown",
+          "slug": "brenebrown",
+          "ok": false,
+          "name": "Brenebrown",
+          "headline": "",
+          "about": "",
+          "raw": ""
+        },
+        "instagram": {
+          "source": "instagram",
+          "url": "https://www.instagram.com/brenebrown",
+          "username": "brenebrown",
+          "ok": false,
+          "bio": "",
+          "fullName": "",
+          "followers": null,
+          "posts": [],
+          "note": "Instagram rate-limited/blocked this request (anonymous access). Set IG_SESSIONID in .env for reliable results."
+        }
+      },
+      "profile": {
+        "displayName": "Brene Brown",
+        "tagline": "Analysis unavailable",
+        "summary": "Could not analyze this profile: Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01jy9ddtnbek7vfjxq6cq66gjk` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199881, Requested 1629. Please try again in 10m52.32s. Need more tokens? Upgrade to Dev Tier today at https://c",
+        "needs": [],
+        "hobbies": [],
+        "interests": [],
+        "qualities": [],
+        "greenFlags": [],
+        "lookingFor": "",
+        "vibe": "reserved",
+        "datingStyle": ""
+      }
+    },
+    {
+      "id": "p25",
+      "name": "Lewis Howes",
+      "linkedin": "https://www.linkedin.com/in/lewishowes",
+      "instagram": "https://www.instagram.com/lewishowes",
+      "scraped": {
+        "linkedin": {
+          "source": "linkedin",
+          "url": "https://www.linkedin.com/in/lewishowes",
+          "slug": "lewishowes",
+          "ok": false,
+          "name": "Lewishowes",
+          "headline": "",
+          "about": "",
+          "raw": ""
+        },
+        "instagram": {
+          "source": "instagram",
+          "url": "https://www.instagram.com/lewishowes",
+          "username": "lewishowes",
+          "ok": false,
+          "bio": "",
+          "fullName": "",
+          "followers": null,
+          "posts": [],
+          "note": "Instagram rate-limited/blocked this request (anonymous access). Set IG_SESSIONID in .env for reliable results."
+        }
+      },
+      "profile": {
+        "displayName": "Lewis Howes",
+        "tagline": "Analysis unavailable",
+        "summary": "Could not analyze this profile: Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01jy9ddtnbek7vfjxq6cq66gjk` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199859, Requested 1539. Please try again in 10m3.935999999s. Need more tokens? Upgrade to Dev Tier today at htt",
+        "needs": [],
+        "hobbies": [],
+        "interests": [],
+        "qualities": [],
+        "greenFlags": [],
+        "lookingFor": "",
+        "vibe": "reserved",
+        "datingStyle": ""
+      }
+    }
+  ],
+  "rankings": {
+    "p1": [
+      {
+        "id": "p6",
+        "name": "Reid Hoffman",
+        "score": 96,
+        "reason": "shares technology, entrepreneurship, reading · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p8",
+        "name": "Satya Nadella",
+        "score": 91,
+        "reason": "shares sustainability, reading, hiking · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p9",
+        "name": "Sheryl Sandberg",
+        "score": 91,
+        "reason": "shares technology, reading, playing · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p3",
+        "name": "Arianna Huffington",
+        "score": 85,
+        "reason": "shares reading, hiking · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p4",
+        "name": "Richard Branson",
+        "score": 82,
+        "reason": "shares technology, entrepreneurship, sustainability · ambitious×adventurous chemistry"
+      },
+      {
+        "id": "p21",
+        "name": "Guy Kawasaki",
+        "score": 82,
+        "reason": "shares technology, entrepreneurship, reading · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p2",
+        "name": "Bill Gates",
+        "score": 79,
+        "reason": "shares technology, reading, playing · ambitious×intellectual chemistry"
+      },
+      {
+        "id": "p5",
+        "name": "Gary Vaynerchuk",
+        "score": 77,
+        "reason": "shares entrepreneurship, reading · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p7",
+        "name": "Melinda French Gates",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p10",
+        "name": "Marc Benioff",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p12",
+        "name": "Neil Patel",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p13",
+        "name": "Mark Cuban",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p14",
+        "name": "Jay Shetty",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p16",
+        "name": "Simon Sinek",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p17",
+        "name": "Mel Robbins",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p18",
+        "name": "Steven Bartlett",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p19",
+        "name": "Daymond John",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p22",
+        "name": "Ann Handley",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p23",
+        "name": "Seth Godin",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p24",
+        "name": "Brene Brown",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      }
+    ],
+    "p2": [
+      {
+        "id": "p6",
+        "name": "Reid Hoffman",
+        "score": 96,
+        "reason": "shares technology, reading, playing · needs line up · intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p4",
+        "name": "Richard Branson",
+        "score": 91,
+        "reason": "shares technology, reading, collecting · intellectual×adventurous chemistry"
+      },
+      {
+        "id": "p1",
+        "name": "Sundar Pichai",
+        "score": 90,
+        "reason": "shares technology, reading, playing · intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p9",
+        "name": "Sheryl Sandberg",
+        "score": 90,
+        "reason": "shares technology, reading, playing · intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p8",
+        "name": "Satya Nadella",
+        "score": 84,
+        "reason": "shares reading, playing · intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p21",
+        "name": "Guy Kawasaki",
+        "score": 84,
+        "reason": "shares technology, reading · intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p3",
+        "name": "Arianna Huffington",
+        "score": 83,
+        "reason": "shares reading · needs line up · intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p5",
+        "name": "Gary Vaynerchuk",
+        "score": 77,
+        "reason": "shares reading · intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p7",
+        "name": "Melinda French Gates",
+        "score": 67,
+        "reason": "intellectual×reserved chemistry"
+      },
+      {
+        "id": "p10",
+        "name": "Marc Benioff",
+        "score": 67,
+        "reason": "intellectual×reserved chemistry"
+      },
+      {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 67,
+        "reason": "intellectual×reserved chemistry"
+      },
+      {
+        "id": "p12",
+        "name": "Neil Patel",
+        "score": 67,
+        "reason": "intellectual×reserved chemistry"
+      },
+      {
+        "id": "p13",
+        "name": "Mark Cuban",
+        "score": 67,
+        "reason": "intellectual×reserved chemistry"
+      },
+      {
+        "id": "p14",
+        "name": "Jay Shetty",
+        "score": 67,
+        "reason": "intellectual×reserved chemistry"
+      },
+      {
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 67,
+        "reason": "intellectual×reserved chemistry"
+      },
+      {
+        "id": "p16",
+        "name": "Simon Sinek",
+        "score": 67,
+        "reason": "intellectual×reserved chemistry"
+      },
+      {
+        "id": "p17",
+        "name": "Mel Robbins",
+        "score": 67,
+        "reason": "intellectual×reserved chemistry"
+      },
+      {
+        "id": "p18",
+        "name": "Steven Bartlett",
+        "score": 67,
+        "reason": "intellectual×reserved chemistry"
+      },
+      {
+        "id": "p19",
+        "name": "Daymond John",
+        "score": 67,
+        "reason": "intellectual×reserved chemistry"
+      },
+      {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 67,
+        "reason": "intellectual×reserved chemistry"
+      },
+      {
+        "id": "p22",
+        "name": "Ann Handley",
+        "score": 67,
+        "reason": "intellectual×reserved chemistry"
+      },
+      {
+        "id": "p23",
+        "name": "Seth Godin",
+        "score": 67,
+        "reason": "intellectual×reserved chemistry"
+      },
+      {
+        "id": "p24",
+        "name": "Brene Brown",
+        "score": 67,
+        "reason": "intellectual×reserved chemistry"
+      },
+      {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 67,
+        "reason": "intellectual×reserved chemistry"
+      }
+    ],
+    "p3": [
+      {
+        "id": "p6",
+        "name": "Reid Hoffman",
+        "score": 96,
+        "reason": "shares philanthropy, reading, hiking · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p9",
+        "name": "Sheryl Sandberg",
+        "score": 93,
+        "reason": "shares women, philanthropy, leadership · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p1",
+        "name": "Sundar Pichai",
+        "score": 83,
+        "reason": "shares reading, hiking · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p8",
+        "name": "Satya Nadella",
+        "score": 79,
+        "reason": "shares reading, hiking · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p21",
+        "name": "Guy Kawasaki",
+        "score": 79,
+        "reason": "shares reading, traveling · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p4",
+        "name": "Richard Branson",
+        "score": 78,
+        "reason": "shares reading, traveling · needs line up · ambitious×adventurous chemistry"
+      },
+      {
+        "id": "p5",
+        "name": "Gary Vaynerchuk",
+        "score": 75,
+        "reason": "shares reading, traveling · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p2",
+        "name": "Bill Gates",
+        "score": 71,
+        "reason": "shares reading · needs line up · ambitious×intellectual chemistry"
+      },
+      {
+        "id": "p7",
+        "name": "Melinda French Gates",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p10",
+        "name": "Marc Benioff",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p12",
+        "name": "Neil Patel",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p13",
+        "name": "Mark Cuban",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p14",
+        "name": "Jay Shetty",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p16",
+        "name": "Simon Sinek",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p17",
+        "name": "Mel Robbins",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p18",
+        "name": "Steven Bartlett",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p19",
+        "name": "Daymond John",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p22",
+        "name": "Ann Handley",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p23",
+        "name": "Seth Godin",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p24",
+        "name": "Brene Brown",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      }
+    ],
+    "p4": [
+      {
+        "id": "p6",
+        "name": "Reid Hoffman",
+        "score": 96,
+        "reason": "shares entrepreneurship, technology, innovation · needs line up · adventurous×ambitious chemistry"
+      },
+      {
+        "id": "p9",
+        "name": "Sheryl Sandberg",
+        "score": 91,
+        "reason": "shares technology, traveling, reading · needs line up · adventurous×ambitious chemistry"
+      },
+      {
+        "id": "p21",
+        "name": "Guy Kawasaki",
+        "score": 83,
+        "reason": "shares entrepreneurship, technology, innovation · adventurous×ambitious chemistry"
+      },
+      {
+        "id": "p1",
+        "name": "Sundar Pichai",
+        "score": 79,
+        "reason": "shares entrepreneurship, technology, sustainability · adventurous×ambitious chemistry"
+      },
+      {
+        "id": "p3",
+        "name": "Arianna Huffington",
+        "score": 77,
+        "reason": "shares traveling, reading · needs line up · adventurous×ambitious chemistry"
+      },
+      {
+        "id": "p2",
+        "name": "Bill Gates",
+        "score": 76,
+        "reason": "shares technology, reading, collecting · adventurous×intellectual chemistry"
+      },
+      {
+        "id": "p5",
+        "name": "Gary Vaynerchuk",
+        "score": 74,
+        "reason": "shares entrepreneurship, traveling, reading · adventurous×ambitious chemistry"
+      },
+      {
+        "id": "p8",
+        "name": "Satya Nadella",
+        "score": 74,
+        "reason": "shares sustainability, initiatives, reading · adventurous×ambitious chemistry"
+      },
+      {
+        "id": "p7",
+        "name": "Melinda French Gates",
+        "score": 53,
+        "reason": "adventurous×reserved chemistry"
+      },
+      {
+        "id": "p10",
+        "name": "Marc Benioff",
+        "score": 53,
+        "reason": "adventurous×reserved chemistry"
+      },
+      {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 53,
+        "reason": "adventurous×reserved chemistry"
+      },
+      {
+        "id": "p12",
+        "name": "Neil Patel",
+        "score": 53,
+        "reason": "adventurous×reserved chemistry"
+      },
+      {
+        "id": "p13",
+        "name": "Mark Cuban",
+        "score": 53,
+        "reason": "adventurous×reserved chemistry"
+      },
+      {
+        "id": "p14",
+        "name": "Jay Shetty",
+        "score": 53,
+        "reason": "adventurous×reserved chemistry"
+      },
+      {
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 53,
+        "reason": "adventurous×reserved chemistry"
+      },
+      {
+        "id": "p16",
+        "name": "Simon Sinek",
+        "score": 53,
+        "reason": "adventurous×reserved chemistry"
+      },
+      {
+        "id": "p17",
+        "name": "Mel Robbins",
+        "score": 53,
+        "reason": "adventurous×reserved chemistry"
+      },
+      {
+        "id": "p18",
+        "name": "Steven Bartlett",
+        "score": 53,
+        "reason": "adventurous×reserved chemistry"
+      },
+      {
+        "id": "p19",
+        "name": "Daymond John",
+        "score": 53,
+        "reason": "adventurous×reserved chemistry"
+      },
+      {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 53,
+        "reason": "adventurous×reserved chemistry"
+      },
+      {
+        "id": "p22",
+        "name": "Ann Handley",
+        "score": 53,
+        "reason": "adventurous×reserved chemistry"
+      },
+      {
+        "id": "p23",
+        "name": "Seth Godin",
+        "score": 53,
+        "reason": "adventurous×reserved chemistry"
+      },
+      {
+        "id": "p24",
+        "name": "Brene Brown",
+        "score": 53,
+        "reason": "adventurous×reserved chemistry"
+      },
+      {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 53,
+        "reason": "adventurous×reserved chemistry"
+      }
+    ],
+    "p5": [
+      {
+        "id": "p6",
+        "name": "Reid Hoffman",
+        "score": 96,
+        "reason": "shares entrepreneurship, reading, traveling · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p21",
+        "name": "Guy Kawasaki",
+        "score": 91,
+        "reason": "shares entrepreneurship, reading, traveling · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p1",
+        "name": "Sundar Pichai",
+        "score": 85,
+        "reason": "shares entrepreneurship, reading · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p3",
+        "name": "Arianna Huffington",
+        "score": 85,
+        "reason": "shares reading, traveling · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p4",
+        "name": "Richard Branson",
+        "score": 85,
+        "reason": "shares entrepreneurship, reading, traveling · ambitious×adventurous chemistry"
+      },
+      {
+        "id": "p9",
+        "name": "Sheryl Sandberg",
+        "score": 85,
+        "reason": "shares reading, traveling · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p8",
+        "name": "Satya Nadella",
+        "score": 79,
+        "reason": "shares reading · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p2",
+        "name": "Bill Gates",
+        "score": 75,
+        "reason": "shares reading · ambitious×intellectual chemistry"
+      },
+      {
+        "id": "p7",
+        "name": "Melinda French Gates",
+        "score": 57,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p10",
+        "name": "Marc Benioff",
+        "score": 57,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 57,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p12",
+        "name": "Neil Patel",
+        "score": 57,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p13",
+        "name": "Mark Cuban",
+        "score": 57,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p14",
+        "name": "Jay Shetty",
+        "score": 57,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 57,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p16",
+        "name": "Simon Sinek",
+        "score": 57,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p17",
+        "name": "Mel Robbins",
+        "score": 57,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p18",
+        "name": "Steven Bartlett",
+        "score": 57,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p19",
+        "name": "Daymond John",
+        "score": 57,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 57,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p22",
+        "name": "Ann Handley",
+        "score": 57,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p23",
+        "name": "Seth Godin",
+        "score": 57,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p24",
+        "name": "Brene Brown",
+        "score": 57,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 57,
+        "reason": "ambitious×reserved chemistry"
+      }
+    ],
+    "p6": [
+      {
+        "id": "p4",
+        "name": "Richard Branson",
+        "score": 96,
+        "reason": "shares technology, entrepreneurship, social · needs line up · ambitious×adventurous chemistry"
+      },
+      {
+        "id": "p9",
+        "name": "Sheryl Sandberg",
+        "score": 95,
+        "reason": "shares technology, philanthropy, reading · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p3",
+        "name": "Arianna Huffington",
+        "score": 94,
+        "reason": "shares philanthropy, reading, traveling · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p1",
+        "name": "Sundar Pichai",
+        "score": 91,
+        "reason": "shares technology, entrepreneurship, reading · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p21",
+        "name": "Guy Kawasaki",
+        "score": 87,
+        "reason": "shares technology, entrepreneurship, innovation · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p5",
+        "name": "Gary Vaynerchuk",
+        "score": 82,
+        "reason": "shares entrepreneurship, reading, traveling · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p8",
+        "name": "Satya Nadella",
+        "score": 82,
+        "reason": "shares reading, playing, hiking · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p2",
+        "name": "Bill Gates",
+        "score": 79,
+        "reason": "shares technology, reading, playing · needs line up · ambitious×intellectual chemistry"
+      },
+      {
+        "id": "p7",
+        "name": "Melinda French Gates",
+        "score": 53,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p10",
+        "name": "Marc Benioff",
+        "score": 53,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 53,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p12",
+        "name": "Neil Patel",
+        "score": 53,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p13",
+        "name": "Mark Cuban",
+        "score": 53,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p14",
+        "name": "Jay Shetty",
+        "score": 53,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 53,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p16",
+        "name": "Simon Sinek",
+        "score": 53,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p17",
+        "name": "Mel Robbins",
+        "score": 53,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p18",
+        "name": "Steven Bartlett",
+        "score": 53,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p19",
+        "name": "Daymond John",
+        "score": 53,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 53,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p22",
+        "name": "Ann Handley",
+        "score": 53,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p23",
+        "name": "Seth Godin",
+        "score": 53,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p24",
+        "name": "Brene Brown",
+        "score": 53,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 53,
+        "reason": "ambitious×reserved chemistry"
+      }
+    ],
+    "p7": [
+      {
+        "id": "p2",
+        "name": "Bill Gates",
+        "score": 96,
+        "reason": "reserved×intellectual chemistry"
+      },
+      {
+        "id": "p10",
+        "name": "Marc Benioff",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p12",
+        "name": "Neil Patel",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p13",
+        "name": "Mark Cuban",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p14",
+        "name": "Jay Shetty",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p16",
+        "name": "Simon Sinek",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p17",
+        "name": "Mel Robbins",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p18",
+        "name": "Steven Bartlett",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p19",
+        "name": "Daymond John",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p22",
+        "name": "Ann Handley",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p23",
+        "name": "Seth Godin",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p24",
+        "name": "Brene Brown",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p1",
+        "name": "Sundar Pichai",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p3",
+        "name": "Arianna Huffington",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p4",
+        "name": "Richard Branson",
+        "score": 78,
+        "reason": "reserved×adventurous chemistry"
+      },
+      {
+        "id": "p5",
+        "name": "Gary Vaynerchuk",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p6",
+        "name": "Reid Hoffman",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p8",
+        "name": "Satya Nadella",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p9",
+        "name": "Sheryl Sandberg",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p21",
+        "name": "Guy Kawasaki",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      }
+    ],
+    "p8": [
+      {
+        "id": "p1",
+        "name": "Sundar Pichai",
+        "score": 96,
+        "reason": "shares sustainability, hiking, reading · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p6",
+        "name": "Reid Hoffman",
+        "score": 91,
+        "reason": "shares hiking, reading, playing · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p3",
+        "name": "Arianna Huffington",
+        "score": 85,
+        "reason": "shares hiking, reading · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p4",
+        "name": "Richard Branson",
+        "score": 81,
+        "reason": "shares sustainability, initiatives, reading · ambitious×adventurous chemistry"
+      },
+      {
+        "id": "p9",
+        "name": "Sheryl Sandberg",
+        "score": 80,
+        "reason": "shares reading, playing · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p2",
+        "name": "Bill Gates",
+        "score": 77,
+        "reason": "shares reading, playing · ambitious×intellectual chemistry"
+      },
+      {
+        "id": "p5",
+        "name": "Gary Vaynerchuk",
+        "score": 75,
+        "reason": "shares reading · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p21",
+        "name": "Guy Kawasaki",
+        "score": 75,
+        "reason": "shares reading · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p7",
+        "name": "Melinda French Gates",
+        "score": 56,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p10",
+        "name": "Marc Benioff",
+        "score": 56,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 56,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p12",
+        "name": "Neil Patel",
+        "score": 56,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p13",
+        "name": "Mark Cuban",
+        "score": 56,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p14",
+        "name": "Jay Shetty",
+        "score": 56,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 56,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p16",
+        "name": "Simon Sinek",
+        "score": 56,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p17",
+        "name": "Mel Robbins",
+        "score": 56,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p18",
+        "name": "Steven Bartlett",
+        "score": 56,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p19",
+        "name": "Daymond John",
+        "score": 56,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 56,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p22",
+        "name": "Ann Handley",
+        "score": 56,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p23",
+        "name": "Seth Godin",
+        "score": 56,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p24",
+        "name": "Brene Brown",
+        "score": 56,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 56,
+        "reason": "ambitious×reserved chemistry"
+      }
+    ],
+    "p9": [
+      {
+        "id": "p6",
+        "name": "Reid Hoffman",
+        "score": 96,
+        "reason": "shares technology, philanthropy, reading · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p3",
+        "name": "Arianna Huffington",
+        "score": 93,
+        "reason": "shares philanthropy, development, reading · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p4",
+        "name": "Richard Branson",
+        "score": 92,
+        "reason": "shares technology, business, reading · needs line up · ambitious×adventurous chemistry"
+      },
+      {
+        "id": "p1",
+        "name": "Sundar Pichai",
+        "score": 87,
+        "reason": "shares technology, reading, playing · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p21",
+        "name": "Guy Kawasaki",
+        "score": 84,
+        "reason": "shares technology, reading, conferences · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p2",
+        "name": "Bill Gates",
+        "score": 76,
+        "reason": "shares technology, reading, playing · ambitious×intellectual chemistry"
+      },
+      {
+        "id": "p5",
+        "name": "Gary Vaynerchuk",
+        "score": 74,
+        "reason": "shares reading, traveling · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p8",
+        "name": "Satya Nadella",
+        "score": 74,
+        "reason": "shares reading, playing · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p7",
+        "name": "Melinda French Gates",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p10",
+        "name": "Marc Benioff",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p12",
+        "name": "Neil Patel",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p13",
+        "name": "Mark Cuban",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p14",
+        "name": "Jay Shetty",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p16",
+        "name": "Simon Sinek",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p17",
+        "name": "Mel Robbins",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p18",
+        "name": "Steven Bartlett",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p19",
+        "name": "Daymond John",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p22",
+        "name": "Ann Handley",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p23",
+        "name": "Seth Godin",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p24",
+        "name": "Brene Brown",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 54,
+        "reason": "ambitious×reserved chemistry"
+      }
+    ],
+    "p10": [
+      {
+        "id": "p2",
+        "name": "Bill Gates",
+        "score": 96,
+        "reason": "reserved×intellectual chemistry"
+      },
+      {
+        "id": "p7",
+        "name": "Melinda French Gates",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p12",
+        "name": "Neil Patel",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p13",
+        "name": "Mark Cuban",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p14",
+        "name": "Jay Shetty",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p16",
+        "name": "Simon Sinek",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p17",
+        "name": "Mel Robbins",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p18",
+        "name": "Steven Bartlett",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p19",
+        "name": "Daymond John",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p22",
+        "name": "Ann Handley",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p23",
+        "name": "Seth Godin",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p24",
+        "name": "Brene Brown",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p1",
+        "name": "Sundar Pichai",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p3",
+        "name": "Arianna Huffington",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p4",
+        "name": "Richard Branson",
+        "score": 78,
+        "reason": "reserved×adventurous chemistry"
+      },
+      {
+        "id": "p5",
+        "name": "Gary Vaynerchuk",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p6",
+        "name": "Reid Hoffman",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p8",
+        "name": "Satya Nadella",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p9",
+        "name": "Sheryl Sandberg",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p21",
+        "name": "Guy Kawasaki",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      }
+    ],
+    "p11": [
+      {
+        "id": "p2",
+        "name": "Bill Gates",
+        "score": 96,
+        "reason": "reserved×intellectual chemistry"
+      },
+      {
+        "id": "p7",
+        "name": "Melinda French Gates",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p10",
+        "name": "Marc Benioff",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p12",
+        "name": "Neil Patel",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p13",
+        "name": "Mark Cuban",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p14",
+        "name": "Jay Shetty",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p16",
+        "name": "Simon Sinek",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p17",
+        "name": "Mel Robbins",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p18",
+        "name": "Steven Bartlett",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p19",
+        "name": "Daymond John",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p22",
+        "name": "Ann Handley",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p23",
+        "name": "Seth Godin",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p24",
+        "name": "Brene Brown",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p1",
+        "name": "Sundar Pichai",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p3",
+        "name": "Arianna Huffington",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p4",
+        "name": "Richard Branson",
+        "score": 78,
+        "reason": "reserved×adventurous chemistry"
+      },
+      {
+        "id": "p5",
+        "name": "Gary Vaynerchuk",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p6",
+        "name": "Reid Hoffman",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p8",
+        "name": "Satya Nadella",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p9",
+        "name": "Sheryl Sandberg",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p21",
+        "name": "Guy Kawasaki",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      }
+    ],
+    "p12": [
+      {
+        "id": "p2",
+        "name": "Bill Gates",
+        "score": 96,
+        "reason": "reserved×intellectual chemistry"
+      },
+      {
+        "id": "p7",
+        "name": "Melinda French Gates",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p10",
+        "name": "Marc Benioff",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p13",
+        "name": "Mark Cuban",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p14",
+        "name": "Jay Shetty",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p16",
+        "name": "Simon Sinek",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p17",
+        "name": "Mel Robbins",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p18",
+        "name": "Steven Bartlett",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p19",
+        "name": "Daymond John",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p22",
+        "name": "Ann Handley",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p23",
+        "name": "Seth Godin",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p24",
+        "name": "Brene Brown",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p1",
+        "name": "Sundar Pichai",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p3",
+        "name": "Arianna Huffington",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p4",
+        "name": "Richard Branson",
+        "score": 78,
+        "reason": "reserved×adventurous chemistry"
+      },
+      {
+        "id": "p5",
+        "name": "Gary Vaynerchuk",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p6",
+        "name": "Reid Hoffman",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p8",
+        "name": "Satya Nadella",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p9",
+        "name": "Sheryl Sandberg",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p21",
+        "name": "Guy Kawasaki",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      }
+    ],
+    "p13": [
+      {
+        "id": "p2",
+        "name": "Bill Gates",
+        "score": 96,
+        "reason": "reserved×intellectual chemistry"
+      },
+      {
+        "id": "p7",
+        "name": "Melinda French Gates",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p10",
+        "name": "Marc Benioff",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p12",
+        "name": "Neil Patel",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p14",
+        "name": "Jay Shetty",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p16",
+        "name": "Simon Sinek",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p17",
+        "name": "Mel Robbins",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p18",
+        "name": "Steven Bartlett",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p19",
+        "name": "Daymond John",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p22",
+        "name": "Ann Handley",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p23",
+        "name": "Seth Godin",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p24",
+        "name": "Brene Brown",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p1",
+        "name": "Sundar Pichai",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p3",
+        "name": "Arianna Huffington",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p4",
+        "name": "Richard Branson",
+        "score": 78,
+        "reason": "reserved×adventurous chemistry"
+      },
+      {
+        "id": "p5",
+        "name": "Gary Vaynerchuk",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p6",
+        "name": "Reid Hoffman",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p8",
+        "name": "Satya Nadella",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p9",
+        "name": "Sheryl Sandberg",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p21",
+        "name": "Guy Kawasaki",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      }
+    ],
+    "p14": [
+      {
+        "id": "p2",
+        "name": "Bill Gates",
+        "score": 96,
+        "reason": "reserved×intellectual chemistry"
+      },
+      {
+        "id": "p7",
+        "name": "Melinda French Gates",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p10",
+        "name": "Marc Benioff",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p12",
+        "name": "Neil Patel",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p13",
+        "name": "Mark Cuban",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p16",
+        "name": "Simon Sinek",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p17",
+        "name": "Mel Robbins",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p18",
+        "name": "Steven Bartlett",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p19",
+        "name": "Daymond John",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p22",
+        "name": "Ann Handley",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p23",
+        "name": "Seth Godin",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p24",
+        "name": "Brene Brown",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p1",
+        "name": "Sundar Pichai",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p3",
+        "name": "Arianna Huffington",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p4",
+        "name": "Richard Branson",
+        "score": 78,
+        "reason": "reserved×adventurous chemistry"
+      },
+      {
+        "id": "p5",
+        "name": "Gary Vaynerchuk",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p6",
+        "name": "Reid Hoffman",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p8",
+        "name": "Satya Nadella",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p9",
+        "name": "Sheryl Sandberg",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p21",
+        "name": "Guy Kawasaki",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      }
+    ],
+    "p15": [
+      {
+        "id": "p2",
+        "name": "Bill Gates",
+        "score": 96,
+        "reason": "reserved×intellectual chemistry"
+      },
+      {
+        "id": "p7",
+        "name": "Melinda French Gates",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p10",
+        "name": "Marc Benioff",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p12",
+        "name": "Neil Patel",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p13",
+        "name": "Mark Cuban",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p14",
+        "name": "Jay Shetty",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p16",
+        "name": "Simon Sinek",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p17",
+        "name": "Mel Robbins",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p18",
+        "name": "Steven Bartlett",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p19",
+        "name": "Daymond John",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p22",
+        "name": "Ann Handley",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p23",
+        "name": "Seth Godin",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p24",
+        "name": "Brene Brown",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p1",
+        "name": "Sundar Pichai",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p3",
+        "name": "Arianna Huffington",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p4",
+        "name": "Richard Branson",
+        "score": 78,
+        "reason": "reserved×adventurous chemistry"
+      },
+      {
+        "id": "p5",
+        "name": "Gary Vaynerchuk",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p6",
+        "name": "Reid Hoffman",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p8",
+        "name": "Satya Nadella",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p9",
+        "name": "Sheryl Sandberg",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p21",
+        "name": "Guy Kawasaki",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      }
+    ],
+    "p16": [
+      {
+        "id": "p2",
+        "name": "Bill Gates",
+        "score": 96,
+        "reason": "reserved×intellectual chemistry"
+      },
+      {
+        "id": "p7",
+        "name": "Melinda French Gates",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p10",
+        "name": "Marc Benioff",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p12",
+        "name": "Neil Patel",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p13",
+        "name": "Mark Cuban",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p14",
+        "name": "Jay Shetty",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p17",
+        "name": "Mel Robbins",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p18",
+        "name": "Steven Bartlett",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p19",
+        "name": "Daymond John",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p22",
+        "name": "Ann Handley",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p23",
+        "name": "Seth Godin",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p24",
+        "name": "Brene Brown",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p1",
+        "name": "Sundar Pichai",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p3",
+        "name": "Arianna Huffington",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p4",
+        "name": "Richard Branson",
+        "score": 78,
+        "reason": "reserved×adventurous chemistry"
+      },
+      {
+        "id": "p5",
+        "name": "Gary Vaynerchuk",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p6",
+        "name": "Reid Hoffman",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p8",
+        "name": "Satya Nadella",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p9",
+        "name": "Sheryl Sandberg",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p21",
+        "name": "Guy Kawasaki",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      }
+    ],
+    "p17": [
+      {
+        "id": "p2",
+        "name": "Bill Gates",
+        "score": 96,
+        "reason": "reserved×intellectual chemistry"
+      },
+      {
+        "id": "p7",
+        "name": "Melinda French Gates",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p10",
+        "name": "Marc Benioff",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p12",
+        "name": "Neil Patel",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p13",
+        "name": "Mark Cuban",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p14",
+        "name": "Jay Shetty",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p16",
+        "name": "Simon Sinek",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p18",
+        "name": "Steven Bartlett",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p19",
+        "name": "Daymond John",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p22",
+        "name": "Ann Handley",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p23",
+        "name": "Seth Godin",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p24",
+        "name": "Brene Brown",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p1",
+        "name": "Sundar Pichai",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p3",
+        "name": "Arianna Huffington",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p4",
+        "name": "Richard Branson",
+        "score": 78,
+        "reason": "reserved×adventurous chemistry"
+      },
+      {
+        "id": "p5",
+        "name": "Gary Vaynerchuk",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p6",
+        "name": "Reid Hoffman",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p8",
+        "name": "Satya Nadella",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p9",
+        "name": "Sheryl Sandberg",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p21",
+        "name": "Guy Kawasaki",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      }
+    ],
+    "p18": [
+      {
+        "id": "p2",
+        "name": "Bill Gates",
+        "score": 96,
+        "reason": "reserved×intellectual chemistry"
+      },
+      {
+        "id": "p7",
+        "name": "Melinda French Gates",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p10",
+        "name": "Marc Benioff",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p12",
+        "name": "Neil Patel",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p13",
+        "name": "Mark Cuban",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p14",
+        "name": "Jay Shetty",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p16",
+        "name": "Simon Sinek",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p17",
+        "name": "Mel Robbins",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p19",
+        "name": "Daymond John",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p22",
+        "name": "Ann Handley",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p23",
+        "name": "Seth Godin",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p24",
+        "name": "Brene Brown",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p1",
+        "name": "Sundar Pichai",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p3",
+        "name": "Arianna Huffington",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p4",
+        "name": "Richard Branson",
+        "score": 78,
+        "reason": "reserved×adventurous chemistry"
+      },
+      {
+        "id": "p5",
+        "name": "Gary Vaynerchuk",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p6",
+        "name": "Reid Hoffman",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p8",
+        "name": "Satya Nadella",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p9",
+        "name": "Sheryl Sandberg",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p21",
+        "name": "Guy Kawasaki",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      }
+    ],
+    "p19": [
+      {
+        "id": "p2",
+        "name": "Bill Gates",
+        "score": 96,
+        "reason": "reserved×intellectual chemistry"
+      },
+      {
+        "id": "p7",
+        "name": "Melinda French Gates",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p10",
+        "name": "Marc Benioff",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p12",
+        "name": "Neil Patel",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p13",
+        "name": "Mark Cuban",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p14",
+        "name": "Jay Shetty",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p16",
+        "name": "Simon Sinek",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p17",
+        "name": "Mel Robbins",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p18",
+        "name": "Steven Bartlett",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p22",
+        "name": "Ann Handley",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p23",
+        "name": "Seth Godin",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p24",
+        "name": "Brene Brown",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p1",
+        "name": "Sundar Pichai",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p3",
+        "name": "Arianna Huffington",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p4",
+        "name": "Richard Branson",
+        "score": 78,
+        "reason": "reserved×adventurous chemistry"
+      },
+      {
+        "id": "p5",
+        "name": "Gary Vaynerchuk",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p6",
+        "name": "Reid Hoffman",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p8",
+        "name": "Satya Nadella",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p9",
+        "name": "Sheryl Sandberg",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p21",
+        "name": "Guy Kawasaki",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      }
+    ],
+    "p20": [
+      {
+        "id": "p2",
+        "name": "Bill Gates",
+        "score": 96,
+        "reason": "reserved×intellectual chemistry"
+      },
+      {
+        "id": "p7",
+        "name": "Melinda French Gates",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p10",
+        "name": "Marc Benioff",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p12",
+        "name": "Neil Patel",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p13",
+        "name": "Mark Cuban",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p14",
+        "name": "Jay Shetty",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p16",
+        "name": "Simon Sinek",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p17",
+        "name": "Mel Robbins",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p18",
+        "name": "Steven Bartlett",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p19",
+        "name": "Daymond John",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p22",
+        "name": "Ann Handley",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p23",
+        "name": "Seth Godin",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p24",
+        "name": "Brene Brown",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p1",
+        "name": "Sundar Pichai",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p3",
+        "name": "Arianna Huffington",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p4",
+        "name": "Richard Branson",
+        "score": 78,
+        "reason": "reserved×adventurous chemistry"
+      },
+      {
+        "id": "p5",
+        "name": "Gary Vaynerchuk",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p6",
+        "name": "Reid Hoffman",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p8",
+        "name": "Satya Nadella",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p9",
+        "name": "Sheryl Sandberg",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p21",
+        "name": "Guy Kawasaki",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      }
+    ],
+    "p21": [
+      {
+        "id": "p6",
+        "name": "Reid Hoffman",
+        "score": 96,
+        "reason": "shares technology, entrepreneurship, innovation · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p4",
+        "name": "Richard Branson",
+        "score": 91,
+        "reason": "shares technology, entrepreneurship, innovation · ambitious×adventurous chemistry"
+      },
+      {
+        "id": "p9",
+        "name": "Sheryl Sandberg",
+        "score": 91,
+        "reason": "shares technology, reading, conferences · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p1",
+        "name": "Sundar Pichai",
+        "score": 85,
+        "reason": "shares technology, entrepreneurship, reading · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p5",
+        "name": "Gary Vaynerchuk",
+        "score": 85,
+        "reason": "shares entrepreneurship, reading, traveling · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p3",
+        "name": "Arianna Huffington",
+        "score": 84,
+        "reason": "shares reading, traveling · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p2",
+        "name": "Bill Gates",
+        "score": 76,
+        "reason": "shares technology, reading · ambitious×intellectual chemistry"
+      },
+      {
+        "id": "p8",
+        "name": "Satya Nadella",
+        "score": 74,
+        "reason": "shares reading · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p7",
+        "name": "Melinda French Gates",
+        "score": 56,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p10",
+        "name": "Marc Benioff",
+        "score": 56,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 56,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p12",
+        "name": "Neil Patel",
+        "score": 56,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p13",
+        "name": "Mark Cuban",
+        "score": 56,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p14",
+        "name": "Jay Shetty",
+        "score": 56,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 56,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p16",
+        "name": "Simon Sinek",
+        "score": 56,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p17",
+        "name": "Mel Robbins",
+        "score": 56,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p18",
+        "name": "Steven Bartlett",
+        "score": 56,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p19",
+        "name": "Daymond John",
+        "score": 56,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 56,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p22",
+        "name": "Ann Handley",
+        "score": 56,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p23",
+        "name": "Seth Godin",
+        "score": 56,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p24",
+        "name": "Brene Brown",
+        "score": 56,
+        "reason": "ambitious×reserved chemistry"
+      },
+      {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 56,
+        "reason": "ambitious×reserved chemistry"
+      }
+    ],
+    "p22": [
+      {
+        "id": "p2",
+        "name": "Bill Gates",
+        "score": 96,
+        "reason": "reserved×intellectual chemistry"
+      },
+      {
+        "id": "p7",
+        "name": "Melinda French Gates",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p10",
+        "name": "Marc Benioff",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p12",
+        "name": "Neil Patel",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p13",
+        "name": "Mark Cuban",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p14",
+        "name": "Jay Shetty",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p16",
+        "name": "Simon Sinek",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p17",
+        "name": "Mel Robbins",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p18",
+        "name": "Steven Bartlett",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p19",
+        "name": "Daymond John",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p23",
+        "name": "Seth Godin",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p24",
+        "name": "Brene Brown",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p1",
+        "name": "Sundar Pichai",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p3",
+        "name": "Arianna Huffington",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p4",
+        "name": "Richard Branson",
+        "score": 78,
+        "reason": "reserved×adventurous chemistry"
+      },
+      {
+        "id": "p5",
+        "name": "Gary Vaynerchuk",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p6",
+        "name": "Reid Hoffman",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p8",
+        "name": "Satya Nadella",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p9",
+        "name": "Sheryl Sandberg",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p21",
+        "name": "Guy Kawasaki",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      }
+    ],
+    "p23": [
+      {
+        "id": "p2",
+        "name": "Bill Gates",
+        "score": 96,
+        "reason": "reserved×intellectual chemistry"
+      },
+      {
+        "id": "p7",
+        "name": "Melinda French Gates",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p10",
+        "name": "Marc Benioff",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p12",
+        "name": "Neil Patel",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p13",
+        "name": "Mark Cuban",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p14",
+        "name": "Jay Shetty",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p16",
+        "name": "Simon Sinek",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p17",
+        "name": "Mel Robbins",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p18",
+        "name": "Steven Bartlett",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p19",
+        "name": "Daymond John",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p22",
+        "name": "Ann Handley",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p24",
+        "name": "Brene Brown",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p1",
+        "name": "Sundar Pichai",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p3",
+        "name": "Arianna Huffington",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p4",
+        "name": "Richard Branson",
+        "score": 78,
+        "reason": "reserved×adventurous chemistry"
+      },
+      {
+        "id": "p5",
+        "name": "Gary Vaynerchuk",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p6",
+        "name": "Reid Hoffman",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p8",
+        "name": "Satya Nadella",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p9",
+        "name": "Sheryl Sandberg",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p21",
+        "name": "Guy Kawasaki",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      }
+    ],
+    "p24": [
+      {
+        "id": "p2",
+        "name": "Bill Gates",
+        "score": 96,
+        "reason": "reserved×intellectual chemistry"
+      },
+      {
+        "id": "p7",
+        "name": "Melinda French Gates",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p10",
+        "name": "Marc Benioff",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p12",
+        "name": "Neil Patel",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p13",
+        "name": "Mark Cuban",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p14",
+        "name": "Jay Shetty",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p16",
+        "name": "Simon Sinek",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p17",
+        "name": "Mel Robbins",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p18",
+        "name": "Steven Bartlett",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p19",
+        "name": "Daymond John",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p22",
+        "name": "Ann Handley",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p23",
+        "name": "Seth Godin",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p1",
+        "name": "Sundar Pichai",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p3",
+        "name": "Arianna Huffington",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p4",
+        "name": "Richard Branson",
+        "score": 78,
+        "reason": "reserved×adventurous chemistry"
+      },
+      {
+        "id": "p5",
+        "name": "Gary Vaynerchuk",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p6",
+        "name": "Reid Hoffman",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p8",
+        "name": "Satya Nadella",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p9",
+        "name": "Sheryl Sandberg",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p21",
+        "name": "Guy Kawasaki",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      }
+    ],
+    "p25": [
+      {
+        "id": "p2",
+        "name": "Bill Gates",
+        "score": 96,
+        "reason": "reserved×intellectual chemistry"
+      },
+      {
+        "id": "p7",
+        "name": "Melinda French Gates",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p10",
+        "name": "Marc Benioff",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p12",
+        "name": "Neil Patel",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p13",
+        "name": "Mark Cuban",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p14",
+        "name": "Jay Shetty",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p16",
+        "name": "Simon Sinek",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p17",
+        "name": "Mel Robbins",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p18",
+        "name": "Steven Bartlett",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p19",
+        "name": "Daymond John",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p22",
+        "name": "Ann Handley",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p23",
+        "name": "Seth Godin",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p24",
+        "name": "Brene Brown",
+        "score": 87,
+        "reason": "reserved×reserved chemistry"
+      },
+      {
+        "id": "p1",
+        "name": "Sundar Pichai",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p3",
+        "name": "Arianna Huffington",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p4",
+        "name": "Richard Branson",
+        "score": 78,
+        "reason": "reserved×adventurous chemistry"
+      },
+      {
+        "id": "p5",
+        "name": "Gary Vaynerchuk",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p6",
+        "name": "Reid Hoffman",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p8",
+        "name": "Satya Nadella",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p9",
+        "name": "Sheryl Sandberg",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      },
+      {
+        "id": "p21",
+        "name": "Guy Kawasaki",
+        "score": 78,
+        "reason": "reserved×ambitious chemistry"
+      }
+    ]
+  },
+  "dates": {},
+  "createdAt": "2026-10-01T16:57:42.462Z",
+  "provider": "groq"
+}

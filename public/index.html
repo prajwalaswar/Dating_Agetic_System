@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Cupid Agents — AI that dates on your behalf</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="glow"></div>
+
+  <header class="site-head">
+    <div class="brand">
+      <span class="logo">💘</span>
+      <div>
+        <h1>Cupid Agents</h1>
+        <p class="sub">Paste LinkedIn + Instagram. Agents read everyone, date on their behalf, and rank who fits best.</p>
+      </div>
+    </div>
+    <div class="provider-pill" id="providerPill">checking…</div>
+  </header>
+
+  <nav class="tabs" id="tabs">
+    <button class="tab active" data-view="input">1 · Input</button>
+    <button class="tab" data-view="profiles">2 · Profiles</button>
+    <button class="tab" data-view="arena">3 · Dating Arena</button>
+    <button class="tab" data-view="rankings">4 · Rankings</button>
+  </nav>
+
+  <main>
+    <!-- INPUT VIEW -->
+    <section class="view active" id="view-input">
+      <div class="card">
+        <h2>Add people</h2>
+        <p class="muted">One person per line: <code>Name | linkedin-url | instagram-url</code>. The name is optional — agents infer it.</p>
+        <textarea id="bulk" rows="10" spellcheck="false" placeholder="Ada Lovelace | https://www.linkedin.com/in/ada | https://www.instagram.com/ada
+Alan Turing | https://www.linkedin.com/in/alan | https://www.instagram.com/alan"></textarea>
+        <div class="row-actions">
+          <button class="btn ghost" id="loadSample">Load 25 sample people</button>
+          <span class="muted" id="countHint">0 people</span>
+          <button class="btn primary" id="runBtn">Run the agents →</button>
+        </div>
+      </div>
+
+      <div class="card progress-card hidden" id="progressCard">
+        <h2>Live run</h2>
+        <div class="progress-bars">
+          <div class="pbar"><label>Scrape</label><div class="track"><span id="bar-scrape"></span></div></div>
+          <div class="pbar"><label>Analyze</label><div class="track"><span id="bar-analyze"></span></div></div>
+          <div class="pbar"><label>Rank</label><div class="track"><span id="bar-rank"></span></div></div>
+          <div class="pbar"><label>Date</label><div class="track"><span id="bar-date"></span></div></div>
+        </div>
+        <div class="log" id="log"></div>
+      </div>
+    </section>
+
+    <!-- PROFILES VIEW -->
+    <section class="view" id="view-profiles">
+      <div class="section-head"><h2>Profiles</h2><span class="muted" id="profilesCount"></span></div>
+      <div class="grid" id="profilesGrid"><p class="empty">No profiles yet — run the agents from the Input tab.</p></div>
+    </section>
+
+    <!-- ARENA VIEW -->
+    <section class="view" id="view-arena">
+      <div class="section-head"><h2>Dating Arena</h2><span class="muted">Agents date on each person's behalf. Click any pair to watch (or re-run).</span></div>
+      <div class="arena-controls card hidden" id="arenaControls">
+        <span>Set up a date:</span>
+        <select id="selA"></select>
+        <span class="x">✕</span>
+        <select id="selB"></select>
+        <button class="btn primary" id="goDate">Send them on a date</button>
+      </div>
+      <div id="datesList"><p class="empty">No dates yet.</p></div>
+    </section>
+
+    <!-- RANKINGS VIEW -->
+    <section class="view" id="view-rankings">
+      <div class="section-head"><h2>Rankings</h2><span class="muted">For each person, who fits them best.</span></div>
+      <div id="rankingsList"><p class="empty">No rankings yet.</p></div>
+    </section>
+  </main>
+
+  <!-- Profile modal -->
+  <div class="modal-backdrop" id="modal">
+    <div class="modal" id="modalBody"></div>
+  </div>
+
+  <footer class="site-foot">
+    <span>Two sources only — LinkedIn + Instagram. Built with free LLMs (Gemini / Groq).</span>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
