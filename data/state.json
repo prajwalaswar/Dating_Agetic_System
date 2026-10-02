@@ -692,16 +692,38 @@
       },
       "profile": {
         "displayName": "Whitney Wolfe Herd",
-        "tagline": "Analysis unavailable",
-        "summary": "Could not analyze this profile: Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01jy9ddtnbek7vfjxq6cq66gjk` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198956, Requested 1543. Please try again in 3m35.567999999s. Need more tokens? Upgrade to Dev Tier today at htt",
-        "needs": [],
-        "hobbies": [],
-        "interests": [],
-        "qualities": [],
-        "greenFlags": [],
-        "lookingFor": "",
-        "vibe": "reserved",
-        "datingStyle": ""
+        "tagline": "Founder of Bumble, champion of women’s empowerment.",
+        "summary": "Whitney Wolfe Herd is a trailblazing entrepreneur who co‑founded Tinder and later launched Bumble, a dating app that puts women in control. She’s a vocal advocate for gender equality and has become a prominent figure in tech and business.",
+        "needs": [
+          "supportive partner who shares her drive",
+          "someone who respects her independence",
+          "a partner who values open communication"
+        ],
+        "hobbies": [
+          "traveling",
+          "fitness",
+          "reading business books"
+        ],
+        "interests": [
+          "technology",
+          "entrepreneurship",
+          "women’s rights",
+          "fitness"
+        ],
+        "qualities": [
+          "ambitious",
+          "resilient",
+          "charismatic",
+          "thoughtful"
+        ],
+        "lookingFor": "She’s looking for a partner who is equally ambitious, supportive, and values equality—someone who can keep up with her dynamic lifestyle and share in her passion for making a difference.",
+        "vibe": "ambitious",
+        "greenFlags": [
+          "values equality",
+          "supports career goals",
+          "communicates openly"
+        ],
+        "datingStyle": "She likely plans thoughtful, engaging dates that reflect shared interests and intellectual conversation."
       }
     },
     {
@@ -858,16 +880,36 @@
       },
       "profile": {
         "displayName": "Jay Shetty",
-        "tagline": "Analysis unavailable",
-        "summary": "Could not analyze this profile: Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01jy9ddtnbek7vfjxq6cq66gjk` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198855, Requested 1538. Please try again in 2m49.776s. Need more tokens? Upgrade to Dev Tier today at https://c",
-        "needs": [],
-        "hobbies": [],
-        "interests": [],
-        "qualities": [],
-        "greenFlags": [],
-        "lookingFor": "",
-        "vibe": "reserved",
-        "datingStyle": ""
+        "tagline": "From monk to motivational maestro.",
+        "summary": "Jay Shetty is a former monk turned global motivational speaker and author, known for his heartfelt storytelling and practical wisdom. He blends ancient teachings with modern psychology to inspire millions. His work spans books, podcasts, and a popular YouTube channel.",
+        "needs": [
+          "someone who values personal growth and authenticity",
+          "a partner who is supportive and open‑minded",
+          "someone who shares a passion for meaningful conversation"
+        ],
+        "hobbies": [
+          "yoga",
+          "meditation",
+          "traveling"
+        ],
+        "interests": [
+          "mindfulness",
+          "self‑improvement",
+          "cultural exploration"
+        ],
+        "qualities": [
+          "empathetic",
+          "thoughtful",
+          "charismatic"
+        ],
+        "lookingFor": "He’s looking for a partner who is curious, compassionate, and driven to make a positive impact. Someone who enjoys deep conversations and values both personal and shared growth.",
+        "vibe": "intellectual",
+        "greenFlags": [
+          "values authenticity",
+          "committed to self‑growth",
+          "open to new experiences"
+        ],
+        "datingStyle": "He prefers thoughtful, relaxed dates that allow genuine connection over flashy gestures."
       }
     },
     {
@@ -900,16 +942,46 @@
       },
       "profile": {
         "displayName": "Tim Ferriss",
-        "tagline": "Analysis unavailable",
-        "summary": "Could not analyze this profile: Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01jy9ddtnbek7vfjxq6cq66gjk` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198837, Requested 1340. Please try again in 1m16.464s. Need more tokens? Upgrade to Dev Tier today at https://c",
-        "needs": [],
-        "hobbies": [],
-        "interests": [],
-        "qualities": [],
-        "greenFlags": [],
-        "lookingFor": "",
-        "vibe": "reserved",
-        "datingStyle": ""
+        "tagline": "The self-optimization guru who turns experiments into life hacks.",
+        "summary": "Tim Ferriss is an author, entrepreneur, and podcast host known for his work on productivity, lifestyle design, and personal experimentation. He has written bestselling books and hosts a popular show where he interviews high performers. His work centers on maximizing efficiency and exploring unconventional approaches to health and wealth.",
+        "needs": [
+          "someone who shares curiosity for self‑improvement",
+          "a partner who values authenticity and experimentation",
+          "someone who can keep up with his busy schedule and travel"
+        ],
+        "hobbies": [
+          "traveling",
+          "experimenting with fitness regimes",
+          "reading",
+          "playing guitar",
+          "cooking"
+        ],
+        "interests": [
+          "productivity hacks",
+          "entrepreneurship",
+          "health optimization",
+          "podcasting",
+          "personal finance",
+          "minimalism"
+        ],
+        "qualities": [
+          "curious",
+          "resourceful",
+          "discerning",
+          "adventurous",
+          "communicative",
+          "analytical"
+        ],
+        "lookingFor": "Tim seeks a partner who is intellectually curious, open to experimentation, and values authenticity. They should be supportive of his busy lifestyle, share a passion for learning, and be comfortable exploring new ideas together.",
+        "vibe": "intellectual",
+        "greenFlags": [
+          "genuine curiosity about life",
+          "willingness to try new things",
+          "strong communication skills",
+          "respect for personal boundaries",
+          "supportive of partner's goals"
+        ],
+        "datingStyle": "He likely prefers a relaxed, conversation‑focused setting where ideas flow freely and both partners can share insights."
       }
     },
     {
@@ -942,16 +1014,36 @@
       },
       "profile": {
         "displayName": "Simon Sinek",
-        "tagline": "Analysis unavailable",
-        "summary": "Could not analyze this profile: Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01jy9ddtnbek7vfjxq6cq66gjk` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198795, Requested 1337. Please try again in 57.024s. Need more tokens? Upgrade to Dev Tier today at https://con",
-        "needs": [],
-        "hobbies": [],
-        "interests": [],
-        "qualities": [],
-        "greenFlags": [],
-        "lookingFor": "",
-        "vibe": "reserved",
-        "datingStyle": ""
+        "tagline": "Start with why — then build something that lasts",
+        "summary": "A leadership thinker and optimist who believes purpose comes before profit. Warm, curious, and endlessly interested in what makes people tick.",
+        "needs": [
+          "a partner who shares a sense of purpose",
+          "honest, deep conversation",
+          "mutual encouragement"
+        ],
+        "hobbies": [
+          "writing",
+          "public speaking",
+          "long walks and thinking"
+        ],
+        "interests": [
+          "leadership",
+          "human behavior",
+          "storytelling"
+        ],
+        "qualities": [
+          "optimistic",
+          "thoughtful",
+          "great listener"
+        ],
+        "lookingFor": "Someone grounded and genuine who values meaning over status and can trade big ideas late into the night.",
+        "vibe": "intellectual",
+        "greenFlags": [
+          "empathetic",
+          "driven by purpose",
+          "calm under pressure"
+        ],
+        "datingStyle": "Asks the deep questions early and actually listens to the answers."
       }
     },
     {
@@ -984,16 +1076,36 @@
       },
       "profile": {
         "displayName": "Mel Robbins",
-        "tagline": "Analysis unavailable",
-        "summary": "Could not analyze this profile: Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01jy9ddtnbek7vfjxq6cq66gjk` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 198777, Requested 1339. Please try again in 50.112s. Need more tokens? Upgrade to Dev Tier today at https://con",
-        "needs": [],
-        "hobbies": [],
-        "interests": [],
-        "qualities": [],
-        "greenFlags": [],
-        "lookingFor": "",
-        "vibe": "reserved",
-        "datingStyle": ""
+        "tagline": "Stop waiting for permission — just go",
+        "summary": "A motivational force who turned a simple idea into a movement. Direct, relatable, and allergic to overthinking.",
+        "needs": [
+          "a partner who matches her energy",
+          "honesty without games",
+          "someone who roots for her"
+        ],
+        "hobbies": [
+          "podcasting",
+          "working out",
+          "family time"
+        ],
+        "interests": [
+          "psychology",
+          "self-improvement",
+          "public speaking"
+        ],
+        "qualities": [
+          "motivating",
+          "candid",
+          "resilient"
+        ],
+        "lookingFor": "A confident, down-to-earth partner who takes action and does not need coddling.",
+        "vibe": "ambitious",
+        "greenFlags": [
+          "supportive",
+          "high energy",
+          "emotionally honest"
+        ],
+        "datingStyle": "Cuts the small talk, says what she means, and makes you laugh doing it."
       }
     },
     {
@@ -1153,16 +1265,40 @@
       },
       "profile": {
         "displayName": "Barbara Corcoran",
-        "tagline": "Analysis unavailable",
-        "summary": "Could not analyze this profile: Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01jy9ddtnbek7vfjxq6cq66gjk` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199979, Requested 1633. Please try again in 11m36.383999999s. Need more tokens? Upgrade to Dev Tier today at ht",
-        "needs": [],
-        "hobbies": [],
-        "interests": [],
-        "qualities": [],
-        "greenFlags": [],
-        "lookingFor": "",
-        "vibe": "reserved",
-        "datingStyle": ""
+        "tagline": "Turning opportunities into empires, one deal at a time",
+        "summary": "Barbara Corcoran is a celebrated entrepreneur, real estate mogul, and television personality known for her sharp business acumen and charismatic presence. With a history of turning modest beginnings into a multi-million dollar empire, she remains a passionate advocate for women in business and philanthropy. She balances her high-profile career with a love for creative pursuits and community involvement.",
+        "needs": [
+          "ambitious partner who values growth",
+          "supportive of career and personal goals",
+          "someone who shares a sense of humor and adventure"
+        ],
+        "hobbies": [
+          "reading business biographies",
+          "traveling to new cities",
+          "yoga and meditation",
+          "cooking gourmet meals"
+        ],
+        "interests": [
+          "entrepreneurship",
+          "real estate investment",
+          "women's empowerment",
+          "social entrepreneurship"
+        ],
+        "qualities": [
+          "confident",
+          "witty",
+          "driven",
+          "compassionate",
+          "charismatic"
+        ],
+        "lookingFor": "Someone who is equally ambitious, supportive, and has a sense of humor. A partner who can keep up with her dynamic lifestyle, shares her passion for growth, and values both career and personal connection.",
+        "vibe": "ambitious",
+        "greenFlags": [
+          "shares long-term goals",
+          "values integrity and transparency",
+          "has a strong support system for each other"
+        ],
+        "datingStyle": "Confident, engaging, and always ready to spark a lively conversation."
       }
     },
     {
@@ -1260,16 +1396,36 @@
       },
       "profile": {
         "displayName": "Ann Handley",
-        "tagline": "Analysis unavailable",
-        "summary": "Could not analyze this profile: Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01jy9ddtnbek7vfjxq6cq66gjk` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199941, Requested 1538. Please try again in 10m38.928s. Need more tokens? Upgrade to Dev Tier today at https://",
-        "needs": [],
-        "hobbies": [],
-        "interests": [],
-        "qualities": [],
-        "greenFlags": [],
-        "lookingFor": "",
-        "vibe": "reserved",
-        "datingStyle": ""
+        "tagline": "Everybody writes — she just does it better",
+        "summary": "A pioneering content marketer with a writer's wit and a teacher's patience. Playful, precise, and quietly rebellious about doing things well.",
+        "needs": [
+          "a partner who appreciates good writing and dry humor",
+          "intellectual spark",
+          "room to create"
+        ],
+        "hobbies": [
+          "writing",
+          "reading",
+          "collecting good stories"
+        ],
+        "interests": [
+          "marketing",
+          "language",
+          "creativity"
+        ],
+        "qualities": [
+          "witty",
+          "detail-oriented",
+          "generous mentor"
+        ],
+        "lookingFor": "A clever, kind person who gets her humor and respects the craft of a well-made thing.",
+        "vibe": "creative",
+        "greenFlags": [
+          "smart",
+          "warm",
+          "funny"
+        ],
+        "datingStyle": "Charms you with a perfectly timed one-liner, then surprises you with real depth."
       }
     },
     {
@@ -1302,16 +1458,36 @@
       },
       "profile": {
         "displayName": "Seth Godin",
-        "tagline": "Analysis unavailable",
-        "summary": "Could not analyze this profile: Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01jy9ddtnbek7vfjxq6cq66gjk` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199919, Requested 1538. Please try again in 10m29.424s. Need more tokens? Upgrade to Dev Tier today at https://",
-        "needs": [],
-        "hobbies": [],
-        "interests": [],
-        "qualities": [],
-        "greenFlags": [],
-        "lookingFor": "",
-        "vibe": "reserved",
-        "datingStyle": ""
+        "tagline": "Make something people miss when it's gone",
+        "summary": "A marketing legend and relentless idea machine. Provocative, generous with knowledge, and never content with the ordinary.",
+        "needs": [
+          "a partner who thinks for themselves",
+          "curiosity",
+          "space for big projects"
+        ],
+        "hobbies": [
+          "writing daily",
+          "reading voraciously",
+          "building communities"
+        ],
+        "interests": [
+          "marketing",
+          "change-making",
+          "teaching"
+        ],
+        "qualities": [
+          "original",
+          "generous",
+          "disciplined"
+        ],
+        "lookingFor": "An independent, curious person unafraid of unconventional ideas and comfortable with a creative life.",
+        "vibe": "intellectual",
+        "greenFlags": [
+          "principled",
+          "curious",
+          "encouraging"
+        ],
+        "datingStyle": "Challenges your assumptions kindly and leaves you thinking for days."
       }
     },
     {
@@ -1406,16 +1582,36 @@
       },
       "profile": {
         "displayName": "Lewis Howes",
-        "tagline": "Analysis unavailable",
-        "summary": "Could not analyze this profile: Groq 429: {\"error\":{\"message\":\"Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01jy9ddtnbek7vfjxq6cq66gjk` service tier `on_demand` on tokens per day (TPD): Limit 200000, Used 199859, Requested 1539. Please try again in 10m3.935999999s. Need more tokens? Upgrade to Dev Tier today at htt",
-        "needs": [],
-        "hobbies": [],
-        "interests": [],
-        "qualities": [],
-        "greenFlags": [],
-        "lookingFor": "",
-        "vibe": "reserved",
-        "datingStyle": ""
+        "tagline": "Chasing greatness, on and off the field",
+        "summary": "A former pro athlete turned podcaster who built a platform on vulnerability and growth. Driven, open, and always leveling up.",
+        "needs": [
+          "a partner who values growth",
+          "emotional openness",
+          "shared ambition"
+        ],
+        "hobbies": [
+          "podcasting",
+          "sports",
+          "traveling"
+        ],
+        "interests": [
+          "personal development",
+          "entrepreneurship",
+          "wellness"
+        ],
+        "qualities": [
+          "ambitious",
+          "vulnerable",
+          "disciplined"
+        ],
+        "lookingFor": "A warm, ambitious partner who is on their own growth journey and communicates openly.",
+        "vibe": "ambitious",
+        "greenFlags": [
+          "open-hearted",
+          "motivated",
+          "health-conscious"
+        ],
+        "datingStyle": "Leads with genuine curiosity about your dreams and shares his own just as freely."
       }
     }
   ],
@@ -1446,10 +1642,22 @@
         "reason": "shares technology, reading, playing · needs line up · ambitious×ambitious chemistry"
       },
       {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 90,
+        "reason": "shares technology, entrepreneurship, reading · needs line up · ambitious×ambitious chemistry"
+      },
+      {
         "id": "p3",
         "name": "Arianna Huffington",
         "score": 85,
         "reason": "shares reading, hiking · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 83,
+        "reason": "shares entrepreneurship, reading, playing · needs line up · ambitious×intellectual chemistry"
       },
       {
         "id": "p4",
@@ -1494,10 +1702,40 @@
         "reason": "shares entrepreneurship, reading · ambitious×ambitious chemistry"
       },
       {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 77,
+        "reason": "shares entrepreneurship, reading · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 76,
+        "reason": "shares entrepreneurship · needs line up · ambitious×ambitious chemistry"
+      },
+      {
         "id": "p18",
         "name": "Steven Bartlett",
         "score": 72,
         "reason": "shares reading · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p23",
+        "name": "Seth Godin",
+        "score": 69,
+        "reason": "shares reading · ambitious×intellectual chemistry"
+      },
+      {
+        "id": "p14",
+        "name": "Jay Shetty",
+        "score": 68,
+        "reason": "needs line up · ambitious×intellectual chemistry"
+      },
+      {
+        "id": "p16",
+        "name": "Simon Sinek",
+        "score": 68,
+        "reason": "needs line up · ambitious×intellectual chemistry"
       },
       {
         "id": "p12",
@@ -1506,356 +1744,314 @@
         "reason": "ambitious×ambitious chemistry"
       },
       {
-        "id": "p24",
-        "name": "Brené Brown",
-        "score": 59,
-        "reason": "shares reading · ambitious×warm chemistry"
-      },
-      {
-        "id": "p11",
-        "name": "Whitney Wolfe Herd",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p14",
-        "name": "Jay Shetty",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p15",
-        "name": "Tim Ferriss",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p16",
-        "name": "Simon Sinek",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
         "id": "p17",
         "name": "Mel Robbins",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p20",
-        "name": "Barbara Corcoran",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
+        "score": 67,
+        "reason": "ambitious×ambitious chemistry"
       },
       {
         "id": "p22",
         "name": "Ann Handley",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
+        "score": 63,
+        "reason": "shares reading · ambitious×creative chemistry"
       },
       {
-        "id": "p23",
-        "name": "Seth Godin",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p25",
-        "name": "Lewis Howes",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
+        "id": "p24",
+        "name": "Brené Brown",
+        "score": 59,
+        "reason": "shares reading · ambitious×warm chemistry"
       }
     ],
     "p2": [
       {
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 96,
+        "reason": "shares health, reading, playing · needs line up · intellectual×intellectual chemistry"
+      },
+      {
         "id": "p7",
         "name": "Melinda French Gates",
-        "score": 96,
+        "score": 95,
         "reason": "shares global, health, education · needs line up · intellectual×ambitious chemistry"
       },
       {
         "id": "p6",
         "name": "Reid Hoffman",
-        "score": 90,
+        "score": 89,
         "reason": "shares technology, reading, playing · needs line up · intellectual×ambitious chemistry"
       },
       {
         "id": "p4",
         "name": "Richard Branson",
-        "score": 86,
+        "score": 85,
         "reason": "shares technology, reading, collecting · intellectual×adventurous chemistry"
+      },
+      {
+        "id": "p23",
+        "name": "Seth Godin",
+        "score": 85,
+        "reason": "shares change, reading · intellectual×intellectual chemistry"
       },
       {
         "id": "p1",
         "name": "Sundar Pichai",
-        "score": 85,
+        "score": 84,
         "reason": "shares technology, reading, playing · intellectual×ambitious chemistry"
       },
       {
         "id": "p9",
         "name": "Sheryl Sandberg",
-        "score": 85,
+        "score": 84,
         "reason": "shares technology, reading, playing · intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 83,
+        "reason": "shares technology, reading · needs line up · intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 82,
+        "reason": "shares reading · needs line up · intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p22",
+        "name": "Ann Handley",
+        "score": 82,
+        "reason": "shares reading, collecting · intellectual×creative chemistry"
+      },
+      {
+        "id": "p14",
+        "name": "Jay Shetty",
+        "score": 79,
+        "reason": "needs line up · intellectual×intellectual chemistry"
+      },
+      {
+        "id": "p16",
+        "name": "Simon Sinek",
+        "score": 79,
+        "reason": "needs line up · intellectual×intellectual chemistry"
       },
       {
         "id": "p3",
         "name": "Arianna Huffington",
-        "score": 79,
+        "score": 78,
         "reason": "shares reading · needs line up · intellectual×ambitious chemistry"
       },
       {
         "id": "p8",
         "name": "Satya Nadella",
-        "score": 79,
+        "score": 78,
         "reason": "shares reading, playing · intellectual×ambitious chemistry"
       },
       {
         "id": "p10",
         "name": "Marc Benioff",
-        "score": 79,
+        "score": 78,
         "reason": "shares reading, playing · intellectual×ambitious chemistry"
       },
       {
         "id": "p21",
         "name": "Guy Kawasaki",
-        "score": 79,
+        "score": 78,
         "reason": "shares technology, reading · intellectual×ambitious chemistry"
       },
       {
         "id": "p5",
         "name": "Gary Vaynerchuk",
-        "score": 74,
+        "score": 73,
         "reason": "shares reading · intellectual×ambitious chemistry"
       },
       {
         "id": "p13",
         "name": "Mark Cuban",
-        "score": 74,
+        "score": 73,
         "reason": "shares reading · intellectual×ambitious chemistry"
       },
       {
         "id": "p18",
         "name": "Steven Bartlett",
-        "score": 74,
+        "score": 73,
         "reason": "shares reading · intellectual×ambitious chemistry"
       },
       {
         "id": "p19",
         "name": "Daymond John",
-        "score": 74,
+        "score": 73,
         "reason": "shares reading · intellectual×ambitious chemistry"
       },
       {
         "id": "p12",
         "name": "Neil Patel",
-        "score": 68,
+        "score": 67,
         "reason": "intellectual×ambitious chemistry"
-      },
-      {
-        "id": "p11",
-        "name": "Whitney Wolfe Herd",
-        "score": 64,
-        "reason": "intellectual×reserved chemistry"
-      },
-      {
-        "id": "p14",
-        "name": "Jay Shetty",
-        "score": 64,
-        "reason": "intellectual×reserved chemistry"
-      },
-      {
-        "id": "p15",
-        "name": "Tim Ferriss",
-        "score": 64,
-        "reason": "intellectual×reserved chemistry"
-      },
-      {
-        "id": "p16",
-        "name": "Simon Sinek",
-        "score": 64,
-        "reason": "intellectual×reserved chemistry"
       },
       {
         "id": "p17",
         "name": "Mel Robbins",
-        "score": 64,
-        "reason": "intellectual×reserved chemistry"
-      },
-      {
-        "id": "p20",
-        "name": "Barbara Corcoran",
-        "score": 64,
-        "reason": "intellectual×reserved chemistry"
-      },
-      {
-        "id": "p22",
-        "name": "Ann Handley",
-        "score": 64,
-        "reason": "intellectual×reserved chemistry"
-      },
-      {
-        "id": "p23",
-        "name": "Seth Godin",
-        "score": 64,
-        "reason": "intellectual×reserved chemistry"
+        "score": 67,
+        "reason": "intellectual×ambitious chemistry"
       },
       {
         "id": "p25",
         "name": "Lewis Howes",
-        "score": 64,
-        "reason": "intellectual×reserved chemistry"
+        "score": 67,
+        "reason": "intellectual×ambitious chemistry"
       },
       {
         "id": "p24",
         "name": "Brené Brown",
-        "score": 63,
+        "score": 62,
         "reason": "shares reading · intellectual×warm chemistry"
       }
     ],
     "p3": [
       {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 96,
+        "reason": "shares women, empowerment, yoga · needs line up · ambitious×ambitious chemistry"
+      },
+      {
         "id": "p7",
         "name": "Melinda French Gates",
-        "score": 96,
+        "score": 92,
         "reason": "shares women, empowerment, reading · needs line up · ambitious×ambitious chemistry"
       },
       {
         "id": "p6",
         "name": "Reid Hoffman",
-        "score": 95,
+        "score": 91,
         "reason": "shares philanthropy, reading, hiking · needs line up · ambitious×ambitious chemistry"
       },
       {
         "id": "p9",
         "name": "Sheryl Sandberg",
-        "score": 93,
+        "score": 89,
         "reason": "shares women, philanthropy, leadership · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 80,
+        "reason": "shares women, reading, traveling · needs line up · ambitious×ambitious chemistry"
       },
       {
         "id": "p18",
         "name": "Steven Bartlett",
-        "score": 83,
+        "score": 80,
         "reason": "shares development, reading, traveling · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 80,
+        "reason": "shares wellness, development, traveling · needs line up · ambitious×ambitious chemistry"
       },
       {
         "id": "p1",
         "name": "Sundar Pichai",
-        "score": 82,
+        "score": 79,
         "reason": "shares reading, hiking · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 77,
+        "reason": "shares reading, cooking, traveling · needs line up · ambitious×intellectual chemistry"
       },
       {
         "id": "p4",
         "name": "Richard Branson",
-        "score": 78,
+        "score": 75,
         "reason": "shares reading, traveling · needs line up · ambitious×adventurous chemistry"
       },
       {
         "id": "p8",
         "name": "Satya Nadella",
-        "score": 78,
+        "score": 75,
         "reason": "shares reading, hiking · needs line up · ambitious×ambitious chemistry"
       },
       {
         "id": "p19",
         "name": "Daymond John",
-        "score": 78,
+        "score": 75,
         "reason": "shares reading, traveling · needs line up · ambitious×ambitious chemistry"
       },
       {
         "id": "p21",
         "name": "Guy Kawasaki",
-        "score": 78,
+        "score": 75,
         "reason": "shares reading, traveling · needs line up · ambitious×ambitious chemistry"
       },
       {
         "id": "p24",
         "name": "Brené Brown",
-        "score": 77,
+        "score": 74,
         "reason": "shares leadership, development, yoga · ambitious×warm chemistry"
+      },
+      {
+        "id": "p14",
+        "name": "Jay Shetty",
+        "score": 73,
+        "reason": "shares mindfulness, yoga, traveling · ambitious×intellectual chemistry"
       },
       {
         "id": "p5",
         "name": "Gary Vaynerchuk",
-        "score": 74,
+        "score": 72,
         "reason": "shares reading, traveling · ambitious×ambitious chemistry"
       },
       {
         "id": "p10",
         "name": "Marc Benioff",
-        "score": 74,
+        "score": 72,
         "reason": "shares reading, traveling · ambitious×ambitious chemistry"
       },
       {
         "id": "p2",
         "name": "Bill Gates",
-        "score": 71,
+        "score": 69,
         "reason": "shares reading · needs line up · ambitious×intellectual chemistry"
       },
       {
         "id": "p13",
         "name": "Mark Cuban",
-        "score": 70,
+        "score": 68,
         "reason": "shares reading · ambitious×ambitious chemistry"
       },
       {
         "id": "p12",
         "name": "Neil Patel",
-        "score": 69,
+        "score": 67,
         "reason": "needs line up · ambitious×ambitious chemistry"
-      },
-      {
-        "id": "p11",
-        "name": "Whitney Wolfe Herd",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p14",
-        "name": "Jay Shetty",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p15",
-        "name": "Tim Ferriss",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
       },
       {
         "id": "p16",
         "name": "Simon Sinek",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p17",
-        "name": "Mel Robbins",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p20",
-        "name": "Barbara Corcoran",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p22",
-        "name": "Ann Handley",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
+        "score": 65,
+        "reason": "shares leadership · ambitious×intellectual chemistry"
       },
       {
         "id": "p23",
         "name": "Seth Godin",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
+        "score": 65,
+        "reason": "shares reading · ambitious×intellectual chemistry"
       },
       {
-        "id": "p25",
-        "name": "Lewis Howes",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
+        "id": "p17",
+        "name": "Mel Robbins",
+        "score": 63,
+        "reason": "ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p22",
+        "name": "Ann Handley",
+        "score": 63,
+        "reason": "shares reading · needs line up · ambitious×creative chemistry"
       }
     ],
     "p4": [
@@ -1872,6 +2068,12 @@
         "reason": "shares startup, culture, social · needs line up · adventurous×ambitious chemistry"
       },
       {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 95,
+        "reason": "shares entrepreneurship, technology, traveling · needs line up · adventurous×ambitious chemistry"
+      },
+      {
         "id": "p10",
         "name": "Marc Benioff",
         "score": 92,
@@ -1882,6 +2084,12 @@
         "name": "Sheryl Sandberg",
         "score": 91,
         "reason": "shares technology, traveling, reading · needs line up · adventurous×ambitious chemistry"
+      },
+      {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 88,
+        "reason": "shares entrepreneurship, social, traveling · adventurous×ambitious chemistry"
       },
       {
         "id": "p19",
@@ -1906,6 +2114,24 @@
         "name": "Sundar Pichai",
         "score": 79,
         "reason": "shares entrepreneurship, technology, sustainability · adventurous×ambitious chemistry"
+      },
+      {
+        "id": "p14",
+        "name": "Jay Shetty",
+        "score": 79,
+        "reason": "shares exploration, traveling, self · needs line up · adventurous×intellectual chemistry"
+      },
+      {
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 79,
+        "reason": "shares entrepreneurship, traveling, reading · needs line up · adventurous×intellectual chemistry"
+      },
+      {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 78,
+        "reason": "shares entrepreneurship, sports, traveling · needs line up · adventurous×ambitious chemistry"
       },
       {
         "id": "p3",
@@ -1938,10 +2164,22 @@
         "reason": "shares innovation, business · needs line up · adventurous×ambitious chemistry"
       },
       {
+        "id": "p22",
+        "name": "Ann Handley",
+        "score": 71,
+        "reason": "shares reading, collecting · adventurous×creative chemistry"
+      },
+      {
         "id": "p7",
         "name": "Melinda French Gates",
         "score": 70,
         "reason": "shares traveling, reading · adventurous×ambitious chemistry"
+      },
+      {
+        "id": "p17",
+        "name": "Mel Robbins",
+        "score": 70,
+        "reason": "shares self, improvement · adventurous×ambitious chemistry"
       },
       {
         "id": "p24",
@@ -1950,138 +2188,132 @@
         "reason": "shares traveling, reading · adventurous×warm chemistry"
       },
       {
-        "id": "p11",
-        "name": "Whitney Wolfe Herd",
-        "score": 53,
-        "reason": "adventurous×reserved chemistry"
-      },
-      {
-        "id": "p14",
-        "name": "Jay Shetty",
-        "score": 53,
-        "reason": "adventurous×reserved chemistry"
-      },
-      {
-        "id": "p15",
-        "name": "Tim Ferriss",
-        "score": 53,
-        "reason": "adventurous×reserved chemistry"
+        "id": "p23",
+        "name": "Seth Godin",
+        "score": 58,
+        "reason": "shares reading · adventurous×intellectual chemistry"
       },
       {
         "id": "p16",
         "name": "Simon Sinek",
         "score": 53,
-        "reason": "adventurous×reserved chemistry"
-      },
-      {
-        "id": "p17",
-        "name": "Mel Robbins",
-        "score": 53,
-        "reason": "adventurous×reserved chemistry"
-      },
-      {
-        "id": "p20",
-        "name": "Barbara Corcoran",
-        "score": 53,
-        "reason": "adventurous×reserved chemistry"
-      },
-      {
-        "id": "p22",
-        "name": "Ann Handley",
-        "score": 53,
-        "reason": "adventurous×reserved chemistry"
-      },
-      {
-        "id": "p23",
-        "name": "Seth Godin",
-        "score": 53,
-        "reason": "adventurous×reserved chemistry"
-      },
-      {
-        "id": "p25",
-        "name": "Lewis Howes",
-        "score": 53,
-        "reason": "adventurous×reserved chemistry"
+        "reason": "adventurous×intellectual chemistry"
       }
     ],
     "p5": [
       {
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 96,
+        "reason": "shares entrepreneurship, podcasting, reading · needs line up · ambitious×intellectual chemistry"
+      },
+      {
         "id": "p19",
         "name": "Daymond John",
-        "score": 96,
+        "score": 95,
         "reason": "shares entrepreneurship, reading, networking · ambitious×ambitious chemistry"
       },
       {
         "id": "p6",
         "name": "Reid Hoffman",
-        "score": 95,
+        "score": 94,
+        "reason": "shares entrepreneurship, reading, traveling · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 94,
         "reason": "shares entrepreneurship, reading, traveling · needs line up · ambitious×ambitious chemistry"
       },
       {
         "id": "p10",
         "name": "Marc Benioff",
-        "score": 90,
+        "score": 89,
+        "reason": "shares entrepreneurship, reading, traveling · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 89,
         "reason": "shares entrepreneurship, reading, traveling · ambitious×ambitious chemistry"
       },
       {
         "id": "p18",
         "name": "Steven Bartlett",
-        "score": 90,
+        "score": 89,
         "reason": "shares reading, networking, traveling · ambitious×ambitious chemistry"
       },
       {
         "id": "p21",
         "name": "Guy Kawasaki",
-        "score": 90,
+        "score": 89,
         "reason": "shares entrepreneurship, reading, traveling · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 89,
+        "reason": "shares entrepreneurship, podcasting, traveling · ambitious×ambitious chemistry"
       },
       {
         "id": "p13",
         "name": "Mark Cuban",
-        "score": 88,
+        "score": 87,
         "reason": "shares reading · needs line up · ambitious×ambitious chemistry"
       },
       {
         "id": "p1",
         "name": "Sundar Pichai",
-        "score": 84,
+        "score": 83,
         "reason": "shares entrepreneurship, reading · ambitious×ambitious chemistry"
       },
       {
         "id": "p3",
         "name": "Arianna Huffington",
-        "score": 84,
+        "score": 83,
         "reason": "shares reading, traveling · ambitious×ambitious chemistry"
       },
       {
         "id": "p4",
         "name": "Richard Branson",
-        "score": 84,
+        "score": 83,
         "reason": "shares entrepreneurship, reading, traveling · ambitious×adventurous chemistry"
       },
       {
         "id": "p7",
         "name": "Melinda French Gates",
-        "score": 84,
+        "score": 83,
         "reason": "shares reading, traveling · ambitious×ambitious chemistry"
       },
       {
         "id": "p9",
         "name": "Sheryl Sandberg",
-        "score": 84,
+        "score": 83,
         "reason": "shares reading, traveling · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p23",
+        "name": "Seth Godin",
+        "score": 79,
+        "reason": "shares marketing, reading · ambitious×intellectual chemistry"
       },
       {
         "id": "p8",
         "name": "Satya Nadella",
-        "score": 78,
+        "score": 77,
         "reason": "shares reading · ambitious×ambitious chemistry"
       },
       {
         "id": "p12",
         "name": "Neil Patel",
-        "score": 78,
+        "score": 77,
         "reason": "shares networking · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p17",
+        "name": "Mel Robbins",
+        "score": 77,
+        "reason": "shares podcasting · ambitious×ambitious chemistry"
       },
       {
         "id": "p2",
@@ -2090,64 +2322,28 @@
         "reason": "shares reading · ambitious×intellectual chemistry"
       },
       {
-        "id": "p24",
-        "name": "Brené Brown",
-        "score": 69,
-        "reason": "shares reading, traveling · ambitious×warm chemistry"
-      },
-      {
-        "id": "p11",
-        "name": "Whitney Wolfe Herd",
-        "score": 57,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
         "id": "p14",
         "name": "Jay Shetty",
-        "score": 57,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p15",
-        "name": "Tim Ferriss",
-        "score": 57,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p16",
-        "name": "Simon Sinek",
-        "score": 57,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p17",
-        "name": "Mel Robbins",
-        "score": 57,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p20",
-        "name": "Barbara Corcoran",
-        "score": 57,
-        "reason": "ambitious×reserved chemistry"
+        "score": 74,
+        "reason": "shares traveling · ambitious×intellectual chemistry"
       },
       {
         "id": "p22",
         "name": "Ann Handley",
-        "score": 57,
-        "reason": "ambitious×reserved chemistry"
+        "score": 72,
+        "reason": "shares marketing, reading · ambitious×creative chemistry"
       },
       {
-        "id": "p23",
-        "name": "Seth Godin",
-        "score": 57,
-        "reason": "ambitious×reserved chemistry"
+        "id": "p16",
+        "name": "Simon Sinek",
+        "score": 68,
+        "reason": "ambitious×intellectual chemistry"
       },
       {
-        "id": "p25",
-        "name": "Lewis Howes",
-        "score": 57,
-        "reason": "ambitious×reserved chemistry"
+        "id": "p24",
+        "name": "Brené Brown",
+        "score": 68,
+        "reason": "shares reading, traveling · ambitious×warm chemistry"
       }
     ],
     "p6": [
@@ -2182,10 +2378,28 @@
         "reason": "shares entrepreneurship, social, reading · needs line up · ambitious×ambitious chemistry"
       },
       {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 87,
+        "reason": "shares technology, entrepreneurship, reading · needs line up · ambitious×ambitious chemistry"
+      },
+      {
         "id": "p21",
         "name": "Guy Kawasaki",
         "score": 87,
         "reason": "shares technology, entrepreneurship, innovation · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 84,
+        "reason": "shares entrepreneurship, reading, traveling · needs line up · ambitious×intellectual chemistry"
+      },
+      {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 83,
+        "reason": "shares entrepreneurship, social, reading · ambitious×ambitious chemistry"
       },
       {
         "id": "p5",
@@ -2224,10 +2438,28 @@
         "reason": "shares reading, traveling, hiking · ambitious×ambitious chemistry"
       },
       {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 78,
+        "reason": "shares entrepreneurship, traveling · needs line up · ambitious×ambitious chemistry"
+      },
+      {
         "id": "p13",
         "name": "Mark Cuban",
         "score": 77,
         "reason": "shares reading · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p14",
+        "name": "Jay Shetty",
+        "score": 70,
+        "reason": "shares traveling · needs line up · ambitious×intellectual chemistry"
+      },
+      {
+        "id": "p23",
+        "name": "Seth Godin",
+        "score": 70,
+        "reason": "shares reading · needs line up · ambitious×intellectual chemistry"
       },
       {
         "id": "p12",
@@ -2236,64 +2468,28 @@
         "reason": "shares innovation · ambitious×ambitious chemistry"
       },
       {
+        "id": "p17",
+        "name": "Mel Robbins",
+        "score": 65,
+        "reason": "ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p16",
+        "name": "Simon Sinek",
+        "score": 62,
+        "reason": "ambitious×intellectual chemistry"
+      },
+      {
         "id": "p24",
         "name": "Brené Brown",
         "score": 62,
         "reason": "shares reading, traveling · ambitious×warm chemistry"
       },
       {
-        "id": "p11",
-        "name": "Whitney Wolfe Herd",
-        "score": 53,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p14",
-        "name": "Jay Shetty",
-        "score": 53,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p15",
-        "name": "Tim Ferriss",
-        "score": 53,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p16",
-        "name": "Simon Sinek",
-        "score": 53,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p17",
-        "name": "Mel Robbins",
-        "score": 53,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p20",
-        "name": "Barbara Corcoran",
-        "score": 53,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
         "id": "p22",
         "name": "Ann Handley",
-        "score": 53,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p23",
-        "name": "Seth Godin",
-        "score": 53,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p25",
-        "name": "Lewis Howes",
-        "score": 53,
-        "reason": "ambitious×reserved chemistry"
+        "score": 61,
+        "reason": "shares reading · ambitious×creative chemistry"
       }
     ],
     "p7": [
@@ -2310,6 +2506,12 @@
         "reason": "shares global, health, education · needs line up · ambitious×intellectual chemistry"
       },
       {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 84,
+        "reason": "shares women, empowerment, reading · ambitious×ambitious chemistry"
+      },
+      {
         "id": "p6",
         "name": "Reid Hoffman",
         "score": 79,
@@ -2320,6 +2522,18 @@
         "name": "Sheryl Sandberg",
         "score": 79,
         "reason": "shares women, reading, traveling · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 79,
+        "reason": "shares women, reading, traveling · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 76,
+        "reason": "shares health, reading, traveling · ambitious×intellectual chemistry"
       },
       {
         "id": "p1",
@@ -2364,6 +2578,12 @@
         "reason": "shares reading, traveling · ambitious×ambitious chemistry"
       },
       {
+        "id": "p14",
+        "name": "Jay Shetty",
+        "score": 71,
+        "reason": "shares traveling · needs line up · ambitious×intellectual chemistry"
+      },
+      {
         "id": "p4",
         "name": "Richard Branson",
         "score": 70,
@@ -2376,8 +2596,26 @@
         "reason": "shares reading · ambitious×ambitious chemistry"
       },
       {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 70,
+        "reason": "shares traveling · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p23",
+        "name": "Seth Godin",
+        "score": 67,
+        "reason": "shares reading · ambitious×intellectual chemistry"
+      },
+      {
         "id": "p12",
         "name": "Neil Patel",
+        "score": 65,
+        "reason": "ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p17",
+        "name": "Mel Robbins",
         "score": 65,
         "reason": "ambitious×ambitious chemistry"
       },
@@ -2388,58 +2626,16 @@
         "reason": "shares reading, traveling · ambitious×warm chemistry"
       },
       {
-        "id": "p11",
-        "name": "Whitney Wolfe Herd",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p14",
-        "name": "Jay Shetty",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p15",
-        "name": "Tim Ferriss",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
         "id": "p16",
         "name": "Simon Sinek",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p17",
-        "name": "Mel Robbins",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p20",
-        "name": "Barbara Corcoran",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
+        "score": 62,
+        "reason": "ambitious×intellectual chemistry"
       },
       {
         "id": "p22",
         "name": "Ann Handley",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p23",
-        "name": "Seth Godin",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p25",
-        "name": "Lewis Howes",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
+        "score": 61,
+        "reason": "shares reading · ambitious×creative chemistry"
       }
     ],
     "p8": [
@@ -2460,6 +2656,12 @@
         "name": "Reid Hoffman",
         "score": 90,
         "reason": "shares hiking, reading, playing · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 86,
+        "reason": "shares reading, playing, guitar · needs line up · ambitious×intellectual chemistry"
       },
       {
         "id": "p3",
@@ -2486,10 +2688,22 @@
         "reason": "shares reading, playing · ambitious×ambitious chemistry"
       },
       {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 79,
+        "reason": "shares reading · needs line up · ambitious×ambitious chemistry"
+      },
+      {
         "id": "p2",
         "name": "Bill Gates",
         "score": 76,
         "reason": "shares reading, playing · ambitious×intellectual chemistry"
+      },
+      {
+        "id": "p16",
+        "name": "Simon Sinek",
+        "score": 75,
+        "reason": "needs line up · ambitious×intellectual chemistry"
       },
       {
         "id": "p5",
@@ -2522,73 +2736,61 @@
         "reason": "shares reading · ambitious×ambitious chemistry"
       },
       {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 74,
+        "reason": "shares reading · ambitious×ambitious chemistry"
+      },
+      {
         "id": "p21",
         "name": "Guy Kawasaki",
         "score": 74,
         "reason": "shares reading · ambitious×ambitious chemistry"
       },
       {
-        "id": "p24",
-        "name": "Brené Brown",
-        "score": 61,
-        "reason": "shares reading · ambitious×warm chemistry"
-      },
-      {
-        "id": "p11",
-        "name": "Whitney Wolfe Herd",
-        "score": 56,
-        "reason": "ambitious×reserved chemistry"
+        "id": "p23",
+        "name": "Seth Godin",
+        "score": 71,
+        "reason": "shares reading · ambitious×intellectual chemistry"
       },
       {
         "id": "p14",
         "name": "Jay Shetty",
-        "score": 56,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p15",
-        "name": "Tim Ferriss",
-        "score": 56,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p16",
-        "name": "Simon Sinek",
-        "score": 56,
-        "reason": "ambitious×reserved chemistry"
+        "score": 70,
+        "reason": "needs line up · ambitious×intellectual chemistry"
       },
       {
         "id": "p17",
         "name": "Mel Robbins",
-        "score": 56,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p20",
-        "name": "Barbara Corcoran",
-        "score": 56,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p22",
-        "name": "Ann Handley",
-        "score": 56,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p23",
-        "name": "Seth Godin",
-        "score": 56,
-        "reason": "ambitious×reserved chemistry"
+        "score": 69,
+        "reason": "ambitious×ambitious chemistry"
       },
       {
         "id": "p25",
         "name": "Lewis Howes",
-        "score": 56,
-        "reason": "ambitious×reserved chemistry"
+        "score": 69,
+        "reason": "ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p22",
+        "name": "Ann Handley",
+        "score": 64,
+        "reason": "shares reading · ambitious×creative chemistry"
+      },
+      {
+        "id": "p24",
+        "name": "Brené Brown",
+        "score": 61,
+        "reason": "shares reading · ambitious×warm chemistry"
       }
     ],
     "p9": [
+      {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 96,
+        "reason": "shares technology, business, reading · needs line up · ambitious×ambitious chemistry"
+      },
       {
         "id": "p18",
         "name": "Steven Bartlett",
@@ -2600,6 +2802,12 @@
         "name": "Reid Hoffman",
         "score": 95,
         "reason": "shares technology, philanthropy, reading · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 95,
+        "reason": "shares business, reading, women · needs line up · ambitious×ambitious chemistry"
       },
       {
         "id": "p3",
@@ -2626,6 +2834,12 @@
         "reason": "shares business, reading, books · needs line up · ambitious×ambitious chemistry"
       },
       {
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 84,
+        "reason": "shares personal, reading, playing · needs line up · ambitious×intellectual chemistry"
+      },
+      {
         "id": "p10",
         "name": "Marc Benioff",
         "score": 83,
@@ -2642,6 +2856,12 @@
         "name": "Neil Patel",
         "score": 82,
         "reason": "shares business, strategy · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 82,
+        "reason": "shares personal, development, traveling · needs line up · ambitious×ambitious chemistry"
       },
       {
         "id": "p7",
@@ -2680,58 +2900,34 @@
         "reason": "shares reading, playing · ambitious×ambitious chemistry"
       },
       {
-        "id": "p11",
-        "name": "Whitney Wolfe Herd",
-        "score": 53,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
         "id": "p14",
         "name": "Jay Shetty",
-        "score": 53,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p15",
-        "name": "Tim Ferriss",
-        "score": 53,
-        "reason": "ambitious×reserved chemistry"
+        "score": 67,
+        "reason": "shares traveling · ambitious×intellectual chemistry"
       },
       {
         "id": "p16",
         "name": "Simon Sinek",
-        "score": 53,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p17",
-        "name": "Mel Robbins",
-        "score": 53,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p20",
-        "name": "Barbara Corcoran",
-        "score": 53,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p22",
-        "name": "Ann Handley",
-        "score": 53,
-        "reason": "ambitious×reserved chemistry"
+        "score": 67,
+        "reason": "shares leadership · ambitious×intellectual chemistry"
       },
       {
         "id": "p23",
         "name": "Seth Godin",
-        "score": 53,
-        "reason": "ambitious×reserved chemistry"
+        "score": 67,
+        "reason": "shares reading · ambitious×intellectual chemistry"
       },
       {
-        "id": "p25",
-        "name": "Lewis Howes",
-        "score": 53,
-        "reason": "ambitious×reserved chemistry"
+        "id": "p17",
+        "name": "Mel Robbins",
+        "score": 65,
+        "reason": "ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p22",
+        "name": "Ann Handley",
+        "score": 61,
+        "reason": "shares reading · ambitious×creative chemistry"
       }
     ],
     "p10": [
@@ -2748,6 +2944,12 @@
         "reason": "shares social, entrepreneurship, reading · needs line up · ambitious×ambitious chemistry"
       },
       {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 95,
+        "reason": "shares social, entrepreneurship, reading · needs line up · ambitious×ambitious chemistry"
+      },
+      {
         "id": "p1",
         "name": "Sundar Pichai",
         "score": 91,
@@ -2758,6 +2960,12 @@
         "name": "Satya Nadella",
         "score": 91,
         "reason": "shares cloud, computing, sustainability · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 87,
+        "reason": "shares entrepreneurship, reading, playing · needs line up · ambitious×intellectual chemistry"
       },
       {
         "id": "p9",
@@ -2780,6 +2988,12 @@
       {
         "id": "p5",
         "name": "Gary Vaynerchuk",
+        "score": 81,
+        "reason": "shares entrepreneurship, reading, traveling · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
         "score": 81,
         "reason": "shares entrepreneurship, reading, traveling · ambitious×ambitious chemistry"
       },
@@ -2814,10 +3028,34 @@
         "reason": "shares reading, tech · ambitious×ambitious chemistry"
       },
       {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 76,
+        "reason": "shares entrepreneurship, traveling · ambitious×ambitious chemistry"
+      },
+      {
         "id": "p2",
         "name": "Bill Gates",
         "score": 73,
         "reason": "shares reading, playing · ambitious×intellectual chemistry"
+      },
+      {
+        "id": "p14",
+        "name": "Jay Shetty",
+        "score": 68,
+        "reason": "shares traveling · ambitious×intellectual chemistry"
+      },
+      {
+        "id": "p23",
+        "name": "Seth Godin",
+        "score": 68,
+        "reason": "shares reading · ambitious×intellectual chemistry"
+      },
+      {
+        "id": "p17",
+        "name": "Mel Robbins",
+        "score": 66,
+        "reason": "ambitious×ambitious chemistry"
       },
       {
         "id": "p24",
@@ -2826,204 +3064,162 @@
         "reason": "shares reading, traveling · ambitious×warm chemistry"
       },
       {
-        "id": "p11",
-        "name": "Whitney Wolfe Herd",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p14",
-        "name": "Jay Shetty",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p15",
-        "name": "Tim Ferriss",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
         "id": "p16",
         "name": "Simon Sinek",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p17",
-        "name": "Mel Robbins",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p20",
-        "name": "Barbara Corcoran",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
+        "score": 63,
+        "reason": "ambitious×intellectual chemistry"
       },
       {
         "id": "p22",
         "name": "Ann Handley",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p23",
-        "name": "Seth Godin",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p25",
-        "name": "Lewis Howes",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
+        "score": 62,
+        "reason": "shares reading · ambitious×creative chemistry"
       }
     ],
     "p11": [
       {
-        "id": "p24",
-        "name": "Brené Brown",
+        "id": "p4",
+        "name": "Richard Branson",
         "score": 96,
-        "reason": "reserved×warm chemistry"
+        "reason": "shares technology, entrepreneurship, traveling · needs line up · ambitious×adventurous chemistry"
       },
       {
-        "id": "p2",
-        "name": "Bill Gates",
-        "score": 88,
-        "reason": "reserved×intellectual chemistry"
-      },
-      {
-        "id": "p14",
-        "name": "Jay Shetty",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p15",
-        "name": "Tim Ferriss",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p16",
-        "name": "Simon Sinek",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p17",
-        "name": "Mel Robbins",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
+        "id": "p9",
+        "name": "Sheryl Sandberg",
+        "score": 96,
+        "reason": "shares technology, women, traveling · needs line up · ambitious×ambitious chemistry"
       },
       {
         "id": "p20",
         "name": "Barbara Corcoran",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
+        "score": 91,
+        "reason": "shares entrepreneurship, women, traveling · needs line up · ambitious×ambitious chemistry"
       },
       {
-        "id": "p22",
-        "name": "Ann Handley",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p23",
-        "name": "Seth Godin",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p25",
-        "name": "Lewis Howes",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p1",
-        "name": "Sundar Pichai",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p3",
-        "name": "Arianna Huffington",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p4",
-        "name": "Richard Branson",
-        "score": 73,
-        "reason": "reserved×adventurous chemistry"
-      },
-      {
-        "id": "p5",
-        "name": "Gary Vaynerchuk",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "id": "p19",
+        "name": "Daymond John",
+        "score": 88,
+        "reason": "shares entrepreneurship, traveling, reading · ambitious×ambitious chemistry"
       },
       {
         "id": "p6",
         "name": "Reid Hoffman",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "score": 87,
+        "reason": "shares technology, entrepreneurship, traveling · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p18",
+        "name": "Steven Bartlett",
+        "score": 87,
+        "reason": "shares traveling, reading, business · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p1",
+        "name": "Sundar Pichai",
+        "score": 86,
+        "reason": "shares technology, entrepreneurship, reading · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p21",
+        "name": "Guy Kawasaki",
+        "score": 83,
+        "reason": "shares technology, entrepreneurship, traveling · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p3",
+        "name": "Arianna Huffington",
+        "score": 82,
+        "reason": "shares women, traveling, reading · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p13",
+        "name": "Mark Cuban",
+        "score": 82,
+        "reason": "shares fitness, reading, business · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 82,
+        "reason": "shares entrepreneurship, traveling · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 80,
+        "reason": "shares entrepreneurship, fitness, traveling · ambitious×intellectual chemistry"
+      },
+      {
+        "id": "p5",
+        "name": "Gary Vaynerchuk",
+        "score": 78,
+        "reason": "shares entrepreneurship, traveling, reading · ambitious×ambitious chemistry"
       },
       {
         "id": "p7",
         "name": "Melinda French Gates",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "score": 78,
+        "reason": "shares women, traveling, reading · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p10",
+        "name": "Marc Benioff",
+        "score": 78,
+        "reason": "shares entrepreneurship, traveling, reading · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p2",
+        "name": "Bill Gates",
+        "score": 75,
+        "reason": "shares technology, reading · needs line up · ambitious×intellectual chemistry"
+      },
+      {
+        "id": "p12",
+        "name": "Neil Patel",
+        "score": 74,
+        "reason": "shares fitness, business · ambitious×ambitious chemistry"
       },
       {
         "id": "p8",
         "name": "Satya Nadella",
         "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "reason": "shares reading · needs line up · ambitious×ambitious chemistry"
       },
       {
-        "id": "p9",
-        "name": "Sheryl Sandberg",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "id": "p14",
+        "name": "Jay Shetty",
+        "score": 67,
+        "reason": "shares traveling · ambitious×intellectual chemistry"
       },
       {
-        "id": "p10",
-        "name": "Marc Benioff",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "id": "p23",
+        "name": "Seth Godin",
+        "score": 67,
+        "reason": "shares reading · ambitious×intellectual chemistry"
       },
       {
-        "id": "p12",
-        "name": "Neil Patel",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "id": "p17",
+        "name": "Mel Robbins",
+        "score": 65,
+        "reason": "ambitious×ambitious chemistry"
       },
       {
-        "id": "p13",
-        "name": "Mark Cuban",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "id": "p24",
+        "name": "Brené Brown",
+        "score": 63,
+        "reason": "shares traveling, reading · ambitious×warm chemistry"
       },
       {
-        "id": "p18",
-        "name": "Steven Bartlett",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "id": "p16",
+        "name": "Simon Sinek",
+        "score": 62,
+        "reason": "ambitious×intellectual chemistry"
       },
       {
-        "id": "p19",
-        "name": "Daymond John",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p21",
-        "name": "Guy Kawasaki",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "id": "p22",
+        "name": "Ann Handley",
+        "score": 61,
+        "reason": "shares reading · ambitious×creative chemistry"
       }
     ],
     "p12": [
@@ -3052,10 +3248,22 @@
         "reason": "shares business, networking · needs line up · ambitious×ambitious chemistry"
       },
       {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 81,
+        "reason": "shares business, cities · needs line up · ambitious×ambitious chemistry"
+      },
+      {
         "id": "p10",
         "name": "Marc Benioff",
         "score": 77,
         "reason": "shares tech, trends · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 77,
+        "reason": "shares business, fitness · ambitious×ambitious chemistry"
       },
       {
         "id": "p21",
@@ -3068,6 +3276,12 @@
         "name": "Richard Branson",
         "score": 76,
         "reason": "shares innovation, business · needs line up · ambitious×adventurous chemistry"
+      },
+      {
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 74,
+        "reason": "shares productivity, fitness · ambitious×intellectual chemistry"
       },
       {
         "id": "p5",
@@ -3106,70 +3320,52 @@
         "reason": "ambitious×ambitious chemistry"
       },
       {
+        "id": "p17",
+        "name": "Mel Robbins",
+        "score": 67,
+        "reason": "ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 67,
+        "reason": "ambitious×ambitious chemistry"
+      },
+      {
         "id": "p2",
         "name": "Bill Gates",
         "score": 64,
         "reason": "ambitious×intellectual chemistry"
       },
       {
-        "id": "p11",
-        "name": "Whitney Wolfe Herd",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
         "id": "p14",
         "name": "Jay Shetty",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p15",
-        "name": "Tim Ferriss",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
+        "score": 64,
+        "reason": "ambitious×intellectual chemistry"
       },
       {
         "id": "p16",
         "name": "Simon Sinek",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p17",
-        "name": "Mel Robbins",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p20",
-        "name": "Barbara Corcoran",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p22",
-        "name": "Ann Handley",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
+        "score": 64,
+        "reason": "ambitious×intellectual chemistry"
       },
       {
         "id": "p23",
         "name": "Seth Godin",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
+        "score": 64,
+        "reason": "ambitious×intellectual chemistry"
+      },
+      {
+        "id": "p22",
+        "name": "Ann Handley",
+        "score": 58,
+        "reason": "ambitious×creative chemistry"
       },
       {
         "id": "p24",
         "name": "Brené Brown",
         "score": 54,
         "reason": "ambitious×warm chemistry"
-      },
-      {
-        "id": "p25",
-        "name": "Lewis Howes",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
       }
     ],
     "p13": [
@@ -3186,6 +3382,12 @@
         "reason": "shares sports, culture, reading · needs line up · ambitious×adventurous chemistry"
       },
       {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 86,
+        "reason": "shares reading, business, fitness · needs line up · ambitious×ambitious chemistry"
+      },
+      {
         "id": "p18",
         "name": "Steven Bartlett",
         "score": 86,
@@ -3196,6 +3398,12 @@
         "name": "Daymond John",
         "score": 86,
         "reason": "shares investments, reading, business · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 85,
+        "reason": "shares reading, business · needs line up · ambitious×ambitious chemistry"
       },
       {
         "id": "p9",
@@ -3234,6 +3442,18 @@
         "reason": "shares reading · needs line up · ambitious×ambitious chemistry"
       },
       {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 76,
+        "reason": "shares sports · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 74,
+        "reason": "shares reading, fitness · ambitious×intellectual chemistry"
+      },
+      {
         "id": "p3",
         "name": "Arianna Huffington",
         "score": 72,
@@ -3258,648 +3478,624 @@
         "reason": "shares reading · ambitious×intellectual chemistry"
       },
       {
+        "id": "p23",
+        "name": "Seth Godin",
+        "score": 69,
+        "reason": "shares reading · ambitious×intellectual chemistry"
+      },
+      {
+        "id": "p17",
+        "name": "Mel Robbins",
+        "score": 67,
+        "reason": "ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p14",
+        "name": "Jay Shetty",
+        "score": 64,
+        "reason": "ambitious×intellectual chemistry"
+      },
+      {
+        "id": "p16",
+        "name": "Simon Sinek",
+        "score": 64,
+        "reason": "ambitious×intellectual chemistry"
+      },
+      {
+        "id": "p22",
+        "name": "Ann Handley",
+        "score": 63,
+        "reason": "shares reading · ambitious×creative chemistry"
+      },
+      {
         "id": "p24",
         "name": "Brené Brown",
         "score": 59,
         "reason": "shares reading · ambitious×warm chemistry"
-      },
-      {
-        "id": "p11",
-        "name": "Whitney Wolfe Herd",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p14",
-        "name": "Jay Shetty",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p15",
-        "name": "Tim Ferriss",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p16",
-        "name": "Simon Sinek",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p17",
-        "name": "Mel Robbins",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p20",
-        "name": "Barbara Corcoran",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p22",
-        "name": "Ann Handley",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p23",
-        "name": "Seth Godin",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p25",
-        "name": "Lewis Howes",
-        "score": 54,
-        "reason": "ambitious×reserved chemistry"
       }
     ],
     "p14": [
       {
-        "id": "p24",
-        "name": "Brené Brown",
+        "id": "p20",
+        "name": "Barbara Corcoran",
         "score": 96,
-        "reason": "reserved×warm chemistry"
+        "reason": "shares yoga, meditation, traveling · needs line up · intellectual×ambitious chemistry"
       },
       {
-        "id": "p2",
-        "name": "Bill Gates",
-        "score": 88,
-        "reason": "reserved×intellectual chemistry"
-      },
-      {
-        "id": "p11",
-        "name": "Whitney Wolfe Herd",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
+        "id": "p4",
+        "name": "Richard Branson",
+        "score": 91,
+        "reason": "shares self, improvement, exploration · needs line up · intellectual×adventurous chemistry"
       },
       {
         "id": "p15",
         "name": "Tim Ferriss",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
+        "score": 87,
+        "reason": "shares traveling · needs line up · intellectual×intellectual chemistry"
       },
       {
-        "id": "p16",
-        "name": "Simon Sinek",
+        "id": "p3",
+        "name": "Arianna Huffington",
+        "score": 86,
+        "reason": "shares mindfulness, yoga, traveling · intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p2",
+        "name": "Bill Gates",
         "score": 81,
-        "reason": "reserved×reserved chemistry"
+        "reason": "needs line up · intellectual×intellectual chemistry"
       },
       {
         "id": "p17",
         "name": "Mel Robbins",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
+        "score": 80,
+        "reason": "shares self, improvement · intellectual×ambitious chemistry"
       },
       {
-        "id": "p20",
-        "name": "Barbara Corcoran",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
+        "id": "p6",
+        "name": "Reid Hoffman",
+        "score": 79,
+        "reason": "shares traveling · needs line up · intellectual×ambitious chemistry"
       },
       {
-        "id": "p22",
-        "name": "Ann Handley",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
+        "id": "p7",
+        "name": "Melinda French Gates",
+        "score": 79,
+        "reason": "shares traveling · needs line up · intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p16",
+        "name": "Simon Sinek",
+        "score": 76,
+        "reason": "intellectual×intellectual chemistry"
       },
       {
         "id": "p23",
         "name": "Seth Godin",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
+        "score": 76,
+        "reason": "intellectual×intellectual chemistry"
+      },
+      {
+        "id": "p5",
+        "name": "Gary Vaynerchuk",
+        "score": 74,
+        "reason": "shares traveling · intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p9",
+        "name": "Sheryl Sandberg",
+        "score": 74,
+        "reason": "shares traveling · intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p10",
+        "name": "Marc Benioff",
+        "score": 74,
+        "reason": "shares traveling · intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 74,
+        "reason": "shares traveling · intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p18",
+        "name": "Steven Bartlett",
+        "score": 74,
+        "reason": "shares traveling · intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p19",
+        "name": "Daymond John",
+        "score": 74,
+        "reason": "shares traveling · intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p21",
+        "name": "Guy Kawasaki",
+        "score": 74,
+        "reason": "shares traveling · intellectual×ambitious chemistry"
       },
       {
         "id": "p25",
         "name": "Lewis Howes",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
+        "score": 74,
+        "reason": "shares traveling · intellectual×ambitious chemistry"
       },
       {
         "id": "p1",
         "name": "Sundar Pichai",
         "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p3",
-        "name": "Arianna Huffington",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p4",
-        "name": "Richard Branson",
-        "score": 73,
-        "reason": "reserved×adventurous chemistry"
-      },
-      {
-        "id": "p5",
-        "name": "Gary Vaynerchuk",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p6",
-        "name": "Reid Hoffman",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p7",
-        "name": "Melinda French Gates",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "reason": "needs line up · intellectual×ambitious chemistry"
       },
       {
         "id": "p8",
         "name": "Satya Nadella",
         "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "reason": "needs line up · intellectual×ambitious chemistry"
       },
       {
-        "id": "p9",
-        "name": "Sheryl Sandberg",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "id": "p22",
+        "name": "Ann Handley",
+        "score": 72,
+        "reason": "intellectual×creative chemistry"
       },
       {
-        "id": "p10",
-        "name": "Marc Benioff",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "id": "p24",
+        "name": "Brené Brown",
+        "score": 69,
+        "reason": "shares yoga, traveling · intellectual×warm chemistry"
       },
       {
         "id": "p12",
         "name": "Neil Patel",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "score": 68,
+        "reason": "intellectual×ambitious chemistry"
       },
       {
         "id": "p13",
         "name": "Mark Cuban",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p18",
-        "name": "Steven Bartlett",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p19",
-        "name": "Daymond John",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p21",
-        "name": "Guy Kawasaki",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "score": 68,
+        "reason": "intellectual×ambitious chemistry"
       }
     ],
     "p15": [
       {
-        "id": "p24",
-        "name": "Brené Brown",
-        "score": 96,
-        "reason": "reserved×warm chemistry"
-      },
-      {
         "id": "p2",
         "name": "Bill Gates",
-        "score": 88,
-        "reason": "reserved×intellectual chemistry"
-      },
-      {
-        "id": "p11",
-        "name": "Whitney Wolfe Herd",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p14",
-        "name": "Jay Shetty",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p16",
-        "name": "Simon Sinek",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p17",
-        "name": "Mel Robbins",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p20",
-        "name": "Barbara Corcoran",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p22",
-        "name": "Ann Handley",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p23",
-        "name": "Seth Godin",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p25",
-        "name": "Lewis Howes",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p1",
-        "name": "Sundar Pichai",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p3",
-        "name": "Arianna Huffington",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p4",
-        "name": "Richard Branson",
-        "score": 73,
-        "reason": "reserved×adventurous chemistry"
+        "score": 96,
+        "reason": "shares health, reading, playing · needs line up · intellectual×intellectual chemistry"
       },
       {
         "id": "p5",
         "name": "Gary Vaynerchuk",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "score": 95,
+        "reason": "shares entrepreneurship, podcasting, traveling · needs line up · intellectual×ambitious chemistry"
       },
       {
         "id": "p6",
         "name": "Reid Hoffman",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p7",
-        "name": "Melinda French Gates",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p8",
-        "name": "Satya Nadella",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "score": 95,
+        "reason": "shares entrepreneurship, traveling, reading · needs line up · intellectual×ambitious chemistry"
       },
       {
         "id": "p9",
         "name": "Sheryl Sandberg",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "score": 95,
+        "reason": "shares personal, traveling, reading · needs line up · intellectual×ambitious chemistry"
       },
       {
         "id": "p10",
         "name": "Marc Benioff",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "score": 95,
+        "reason": "shares entrepreneurship, traveling, reading · needs line up · intellectual×ambitious chemistry"
       },
       {
-        "id": "p12",
-        "name": "Neil Patel",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 90,
+        "reason": "shares entrepreneurship, traveling, fitness · intellectual×ambitious chemistry"
       },
       {
-        "id": "p13",
-        "name": "Mark Cuban",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 90,
+        "reason": "shares entrepreneurship, traveling, reading · intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 90,
+        "reason": "shares entrepreneurship, podcasting, personal · intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p1",
+        "name": "Sundar Pichai",
+        "score": 89,
+        "reason": "shares entrepreneurship, reading, playing · needs line up · intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p3",
+        "name": "Arianna Huffington",
+        "score": 89,
+        "reason": "shares traveling, reading, cooking · needs line up · intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p8",
+        "name": "Satya Nadella",
+        "score": 89,
+        "reason": "shares reading, playing, guitar · needs line up · intellectual×ambitious chemistry"
       },
       {
         "id": "p18",
         "name": "Steven Bartlett",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "score": 89,
+        "reason": "shares personal, traveling, reading · needs line up · intellectual×ambitious chemistry"
       },
       {
         "id": "p19",
         "name": "Daymond John",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "score": 89,
+        "reason": "shares entrepreneurship, traveling, reading · needs line up · intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p4",
+        "name": "Richard Branson",
+        "score": 88,
+        "reason": "shares entrepreneurship, traveling, reading · needs line up · intellectual×adventurous chemistry"
+      },
+      {
+        "id": "p14",
+        "name": "Jay Shetty",
+        "score": 85,
+        "reason": "shares traveling · needs line up · intellectual×intellectual chemistry"
+      },
+      {
+        "id": "p23",
+        "name": "Seth Godin",
+        "score": 85,
+        "reason": "shares reading · needs line up · intellectual×intellectual chemistry"
+      },
+      {
+        "id": "p7",
+        "name": "Melinda French Gates",
+        "score": 84,
+        "reason": "shares health, traveling, reading · intellectual×ambitious chemistry"
       },
       {
         "id": "p21",
         "name": "Guy Kawasaki",
+        "score": 84,
+        "reason": "shares entrepreneurship, traveling, reading · intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p12",
+        "name": "Neil Patel",
+        "score": 78,
+        "reason": "shares productivity, fitness · intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p13",
+        "name": "Mark Cuban",
+        "score": 78,
+        "reason": "shares fitness, reading · intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p22",
+        "name": "Ann Handley",
+        "score": 76,
+        "reason": "shares reading · intellectual×creative chemistry"
+      },
+      {
+        "id": "p16",
+        "name": "Simon Sinek",
+        "score": 74,
+        "reason": "intellectual×intellectual chemistry"
+      },
+      {
+        "id": "p17",
+        "name": "Mel Robbins",
         "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "reason": "shares podcasting · intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p24",
+        "name": "Brené Brown",
+        "score": 73,
+        "reason": "shares personal, traveling, reading · intellectual×warm chemistry"
       }
     ],
     "p16": [
       {
-        "id": "p24",
-        "name": "Brené Brown",
+        "id": "p21",
+        "name": "Guy Kawasaki",
         "score": 96,
-        "reason": "reserved×warm chemistry"
+        "reason": "shares writing, speaking, thinking · intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p23",
+        "name": "Seth Godin",
+        "score": 91,
+        "reason": "shares writing · intellectual×intellectual chemistry"
       },
       {
         "id": "p2",
         "name": "Bill Gates",
-        "score": 88,
-        "reason": "reserved×intellectual chemistry"
-      },
-      {
-        "id": "p11",
-        "name": "Whitney Wolfe Herd",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p14",
-        "name": "Jay Shetty",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p15",
-        "name": "Tim Ferriss",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
+        "score": 90,
+        "reason": "needs line up · intellectual×intellectual chemistry"
       },
       {
         "id": "p17",
         "name": "Mel Robbins",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p20",
-        "name": "Barbara Corcoran",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p22",
-        "name": "Ann Handley",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p23",
-        "name": "Seth Godin",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p25",
-        "name": "Lewis Howes",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p1",
-        "name": "Sundar Pichai",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p3",
-        "name": "Arianna Huffington",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p4",
-        "name": "Richard Branson",
-        "score": 73,
-        "reason": "reserved×adventurous chemistry"
-      },
-      {
-        "id": "p5",
-        "name": "Gary Vaynerchuk",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p6",
-        "name": "Reid Hoffman",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p7",
-        "name": "Melinda French Gates",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "score": 89,
+        "reason": "shares public, speaking · intellectual×ambitious chemistry"
       },
       {
         "id": "p8",
         "name": "Satya Nadella",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "score": 87,
+        "reason": "needs line up · intellectual×ambitious chemistry"
       },
       {
-        "id": "p9",
-        "name": "Sheryl Sandberg",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p10",
-        "name": "Marc Benioff",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p12",
-        "name": "Neil Patel",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p13",
-        "name": "Mark Cuban",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p18",
-        "name": "Steven Bartlett",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p19",
-        "name": "Daymond John",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p21",
-        "name": "Guy Kawasaki",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      }
-    ],
-    "p17": [
-      {
-        "id": "p24",
-        "name": "Brené Brown",
-        "score": 96,
-        "reason": "reserved×warm chemistry"
-      },
-      {
-        "id": "p2",
-        "name": "Bill Gates",
-        "score": 88,
-        "reason": "reserved×intellectual chemistry"
-      },
-      {
-        "id": "p11",
-        "name": "Whitney Wolfe Herd",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
+        "id": "p22",
+        "name": "Ann Handley",
+        "score": 86,
+        "reason": "shares writing · intellectual×creative chemistry"
       },
       {
         "id": "p14",
         "name": "Jay Shetty",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
+        "score": 83,
+        "reason": "intellectual×intellectual chemistry"
       },
       {
         "id": "p15",
         "name": "Tim Ferriss",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p16",
-        "name": "Simon Sinek",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p20",
-        "name": "Barbara Corcoran",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p22",
-        "name": "Ann Handley",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p23",
-        "name": "Seth Godin",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p25",
-        "name": "Lewis Howes",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p1",
-        "name": "Sundar Pichai",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "score": 83,
+        "reason": "intellectual×intellectual chemistry"
       },
       {
         "id": "p3",
         "name": "Arianna Huffington",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p4",
-        "name": "Richard Branson",
-        "score": 73,
-        "reason": "reserved×adventurous chemistry"
-      },
-      {
-        "id": "p5",
-        "name": "Gary Vaynerchuk",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p6",
-        "name": "Reid Hoffman",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p7",
-        "name": "Melinda French Gates",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p8",
-        "name": "Satya Nadella",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "score": 81,
+        "reason": "shares leadership · intellectual×ambitious chemistry"
       },
       {
         "id": "p9",
         "name": "Sheryl Sandberg",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "score": 81,
+        "reason": "shares leadership · intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p1",
+        "name": "Sundar Pichai",
+        "score": 80,
+        "reason": "needs line up · intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p5",
+        "name": "Gary Vaynerchuk",
+        "score": 74,
+        "reason": "intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p6",
+        "name": "Reid Hoffman",
+        "score": 74,
+        "reason": "intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p7",
+        "name": "Melinda French Gates",
+        "score": 74,
+        "reason": "intellectual×ambitious chemistry"
       },
       {
         "id": "p10",
         "name": "Marc Benioff",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "score": 74,
+        "reason": "intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 74,
+        "reason": "intellectual×ambitious chemistry"
       },
       {
         "id": "p12",
         "name": "Neil Patel",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "score": 74,
+        "reason": "intellectual×ambitious chemistry"
       },
       {
         "id": "p13",
         "name": "Mark Cuban",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "score": 74,
+        "reason": "intellectual×ambitious chemistry"
       },
       {
         "id": "p18",
         "name": "Steven Bartlett",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "score": 74,
+        "reason": "intellectual×ambitious chemistry"
       },
       {
         "id": "p19",
         "name": "Daymond John",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "score": 74,
+        "reason": "intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 74,
+        "reason": "intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 74,
+        "reason": "intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p24",
+        "name": "Brené Brown",
+        "score": 68,
+        "reason": "shares leadership · intellectual×warm chemistry"
+      },
+      {
+        "id": "p4",
+        "name": "Richard Branson",
+        "score": 60,
+        "reason": "intellectual×adventurous chemistry"
+      }
+    ],
+    "p17": [
+      {
+        "id": "p14",
+        "name": "Jay Shetty",
+        "score": 96,
+        "reason": "shares self, improvement · ambitious×intellectual chemistry"
+      },
+      {
+        "id": "p16",
+        "name": "Simon Sinek",
+        "score": 96,
+        "reason": "shares public, speaking · ambitious×intellectual chemistry"
+      },
+      {
+        "id": "p4",
+        "name": "Richard Branson",
+        "score": 93,
+        "reason": "shares self, improvement · ambitious×adventurous chemistry"
+      },
+      {
+        "id": "p5",
+        "name": "Gary Vaynerchuk",
+        "score": 93,
+        "reason": "shares podcasting · ambitious×ambitious chemistry"
       },
       {
         "id": "p21",
         "name": "Guy Kawasaki",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "score": 93,
+        "reason": "shares speaking · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 93,
+        "reason": "shares podcasting · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p19",
+        "name": "Daymond John",
+        "score": 92,
+        "reason": "needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 92,
+        "reason": "needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 88,
+        "reason": "shares podcasting · ambitious×intellectual chemistry"
+      },
+      {
+        "id": "p1",
+        "name": "Sundar Pichai",
+        "score": 84,
+        "reason": "ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p3",
+        "name": "Arianna Huffington",
+        "score": 84,
+        "reason": "ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p6",
+        "name": "Reid Hoffman",
+        "score": 84,
+        "reason": "ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p7",
+        "name": "Melinda French Gates",
+        "score": 84,
+        "reason": "ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p8",
+        "name": "Satya Nadella",
+        "score": 84,
+        "reason": "ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p9",
+        "name": "Sheryl Sandberg",
+        "score": 84,
+        "reason": "ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p10",
+        "name": "Marc Benioff",
+        "score": 84,
+        "reason": "ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 84,
+        "reason": "ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p12",
+        "name": "Neil Patel",
+        "score": 84,
+        "reason": "ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p13",
+        "name": "Mark Cuban",
+        "score": 84,
+        "reason": "ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p18",
+        "name": "Steven Bartlett",
+        "score": 84,
+        "reason": "ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p2",
+        "name": "Bill Gates",
+        "score": 79,
+        "reason": "ambitious×intellectual chemistry"
+      },
+      {
+        "id": "p23",
+        "name": "Seth Godin",
+        "score": 79,
+        "reason": "ambitious×intellectual chemistry"
+      },
+      {
+        "id": "p24",
+        "name": "Brené Brown",
+        "score": 72,
+        "reason": "shares psychology · ambitious×warm chemistry"
+      },
+      {
+        "id": "p22",
+        "name": "Ann Handley",
+        "score": 69,
+        "reason": "ambitious×creative chemistry"
       }
     ],
     "p18": [
@@ -3920,6 +4116,18 @@
         "name": "Daymond John",
         "score": 96,
         "reason": "shares reading, business, books · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 87,
+        "reason": "shares reading, business, books · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 87,
+        "reason": "shares social, reading, business · needs line up · ambitious×ambitious chemistry"
       },
       {
         "id": "p10",
@@ -3944,6 +4152,18 @@
         "name": "Mark Cuban",
         "score": 82,
         "reason": "shares culture, reading, business · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 82,
+        "reason": "shares personal, development, traveling · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 79,
+        "reason": "shares personal, reading, traveling · needs line up · ambitious×intellectual chemistry"
       },
       {
         "id": "p5",
@@ -3994,58 +4214,34 @@
         "reason": "shares reading · ambitious×intellectual chemistry"
       },
       {
-        "id": "p11",
-        "name": "Whitney Wolfe Herd",
-        "score": 53,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
         "id": "p14",
         "name": "Jay Shetty",
-        "score": 53,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p15",
-        "name": "Tim Ferriss",
-        "score": 53,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p16",
-        "name": "Simon Sinek",
-        "score": 53,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p17",
-        "name": "Mel Robbins",
-        "score": 53,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p20",
-        "name": "Barbara Corcoran",
-        "score": 53,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p22",
-        "name": "Ann Handley",
-        "score": 53,
-        "reason": "ambitious×reserved chemistry"
+        "score": 66,
+        "reason": "shares traveling · ambitious×intellectual chemistry"
       },
       {
         "id": "p23",
         "name": "Seth Godin",
-        "score": 53,
-        "reason": "ambitious×reserved chemistry"
+        "score": 66,
+        "reason": "shares reading · ambitious×intellectual chemistry"
       },
       {
-        "id": "p25",
-        "name": "Lewis Howes",
-        "score": 53,
-        "reason": "ambitious×reserved chemistry"
+        "id": "p17",
+        "name": "Mel Robbins",
+        "score": 65,
+        "reason": "ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p16",
+        "name": "Simon Sinek",
+        "score": 62,
+        "reason": "ambitious×intellectual chemistry"
+      },
+      {
+        "id": "p22",
+        "name": "Ann Handley",
+        "score": 61,
+        "reason": "shares reading · ambitious×creative chemistry"
       }
     ],
     "p19": [
@@ -4054,6 +4250,12 @@
         "name": "Steven Bartlett",
         "score": 96,
         "reason": "shares reading, business, books · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 88,
+        "reason": "shares entrepreneurship, reading, business · ambitious×ambitious chemistry"
       },
       {
         "id": "p4",
@@ -4066,6 +4268,12 @@
         "name": "Sheryl Sandberg",
         "score": 87,
         "reason": "shares reading, business, books · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 87,
+        "reason": "shares entrepreneurship, reading, business · needs line up · ambitious×ambitious chemistry"
       },
       {
         "id": "p5",
@@ -4084,6 +4292,12 @@
         "name": "Mark Cuban",
         "score": 82,
         "reason": "shares investments, reading, business · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 80,
+        "reason": "shares entrepreneurship, reading, traveling · needs line up · ambitious×intellectual chemistry"
       },
       {
         "id": "p3",
@@ -4122,14 +4336,38 @@
         "reason": "shares reading, traveling · ambitious×ambitious chemistry"
       },
       {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 74,
+        "reason": "shares entrepreneurship, traveling · ambitious×ambitious chemistry"
+      },
+      {
         "id": "p8",
         "name": "Satya Nadella",
         "score": 69,
         "reason": "shares reading · ambitious×ambitious chemistry"
       },
       {
+        "id": "p17",
+        "name": "Mel Robbins",
+        "score": 69,
+        "reason": "needs line up · ambitious×ambitious chemistry"
+      },
+      {
         "id": "p2",
         "name": "Bill Gates",
+        "score": 67,
+        "reason": "shares reading · ambitious×intellectual chemistry"
+      },
+      {
+        "id": "p14",
+        "name": "Jay Shetty",
+        "score": 67,
+        "reason": "shares traveling · ambitious×intellectual chemistry"
+      },
+      {
+        "id": "p23",
+        "name": "Seth Godin",
         "score": 67,
         "reason": "shares reading · ambitious×intellectual chemistry"
       },
@@ -4140,204 +4378,162 @@
         "reason": "shares reading, traveling · ambitious×warm chemistry"
       },
       {
-        "id": "p11",
-        "name": "Whitney Wolfe Herd",
-        "score": 53,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p14",
-        "name": "Jay Shetty",
-        "score": 53,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p15",
-        "name": "Tim Ferriss",
-        "score": 53,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
         "id": "p16",
         "name": "Simon Sinek",
-        "score": 53,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p17",
-        "name": "Mel Robbins",
-        "score": 53,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p20",
-        "name": "Barbara Corcoran",
-        "score": 53,
-        "reason": "ambitious×reserved chemistry"
+        "score": 62,
+        "reason": "ambitious×intellectual chemistry"
       },
       {
         "id": "p22",
         "name": "Ann Handley",
-        "score": 53,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p23",
-        "name": "Seth Godin",
-        "score": 53,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p25",
-        "name": "Lewis Howes",
-        "score": 53,
-        "reason": "ambitious×reserved chemistry"
+        "score": 61,
+        "reason": "shares reading · ambitious×creative chemistry"
       }
     ],
     "p20": [
       {
-        "id": "p24",
-        "name": "Brené Brown",
+        "id": "p3",
+        "name": "Arianna Huffington",
         "score": 96,
-        "reason": "reserved×warm chemistry"
+        "reason": "shares women, empowerment, reading · needs line up · ambitious×ambitious chemistry"
       },
       {
-        "id": "p2",
-        "name": "Bill Gates",
+        "id": "p9",
+        "name": "Sheryl Sandberg",
+        "score": 91,
+        "reason": "shares women, reading, business · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p10",
+        "name": "Marc Benioff",
         "score": 88,
-        "reason": "reserved×intellectual chemistry"
+        "reason": "shares entrepreneurship, social, reading · needs line up · ambitious×ambitious chemistry"
       },
       {
         "id": "p11",
         "name": "Whitney Wolfe Herd",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
+        "score": 88,
+        "reason": "shares entrepreneurship, women, reading · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p4",
+        "name": "Richard Branson",
+        "score": 85,
+        "reason": "shares entrepreneurship, social, reading · ambitious×adventurous chemistry"
+      },
+      {
+        "id": "p18",
+        "name": "Steven Bartlett",
+        "score": 84,
+        "reason": "shares social, reading, business · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p19",
+        "name": "Daymond John",
+        "score": 84,
+        "reason": "shares entrepreneurship, reading, business · needs line up · ambitious×ambitious chemistry"
       },
       {
         "id": "p14",
         "name": "Jay Shetty",
         "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p15",
-        "name": "Tim Ferriss",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p16",
-        "name": "Simon Sinek",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p17",
-        "name": "Mel Robbins",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p22",
-        "name": "Ann Handley",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p23",
-        "name": "Seth Godin",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p25",
-        "name": "Lewis Howes",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p1",
-        "name": "Sundar Pichai",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p3",
-        "name": "Arianna Huffington",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p4",
-        "name": "Richard Branson",
-        "score": 73,
-        "reason": "reserved×adventurous chemistry"
+        "reason": "shares traveling, yoga, meditation · needs line up · ambitious×intellectual chemistry"
       },
       {
         "id": "p5",
         "name": "Gary Vaynerchuk",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "score": 80,
+        "reason": "shares entrepreneurship, reading, traveling · needs line up · ambitious×ambitious chemistry"
       },
       {
         "id": "p6",
         "name": "Reid Hoffman",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "score": 80,
+        "reason": "shares entrepreneurship, social, reading · ambitious×ambitious chemistry"
       },
       {
         "id": "p7",
         "name": "Melinda French Gates",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p8",
-        "name": "Satya Nadella",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p9",
-        "name": "Sheryl Sandberg",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p10",
-        "name": "Marc Benioff",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p12",
-        "name": "Neil Patel",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "score": 80,
+        "reason": "shares women, empowerment, reading · ambitious×ambitious chemistry"
       },
       {
         "id": "p13",
         "name": "Mark Cuban",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "score": 79,
+        "reason": "shares reading, business · needs line up · ambitious×ambitious chemistry"
       },
       {
-        "id": "p18",
-        "name": "Steven Bartlett",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p19",
-        "name": "Daymond John",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 78,
+        "reason": "shares entrepreneurship, reading, traveling · ambitious×intellectual chemistry"
       },
       {
         "id": "p21",
         "name": "Guy Kawasaki",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "score": 76,
+        "reason": "shares entrepreneurship, reading, traveling · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p12",
+        "name": "Neil Patel",
+        "score": 75,
+        "reason": "shares business, cities · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 75,
+        "reason": "shares entrepreneurship, traveling · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p1",
+        "name": "Sundar Pichai",
+        "score": 72,
+        "reason": "shares entrepreneurship, reading · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p2",
+        "name": "Bill Gates",
+        "score": 72,
+        "reason": "shares reading · needs line up · ambitious×intellectual chemistry"
+      },
+      {
+        "id": "p8",
+        "name": "Satya Nadella",
+        "score": 68,
+        "reason": "shares reading · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p17",
+        "name": "Mel Robbins",
+        "score": 67,
+        "reason": "needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p23",
+        "name": "Seth Godin",
+        "score": 65,
+        "reason": "shares reading · ambitious×intellectual chemistry"
+      },
+      {
+        "id": "p24",
+        "name": "Brené Brown",
+        "score": 65,
+        "reason": "shares reading, traveling, yoga · ambitious×warm chemistry"
+      },
+      {
+        "id": "p16",
+        "name": "Simon Sinek",
+        "score": 61,
+        "reason": "ambitious×intellectual chemistry"
+      },
+      {
+        "id": "p22",
+        "name": "Ann Handley",
+        "score": 60,
+        "reason": "shares reading · ambitious×creative chemistry"
       }
     ],
     "p21": [
@@ -4366,6 +4562,12 @@
         "reason": "shares trends, entrepreneurship, reading · ambitious×ambitious chemistry"
       },
       {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 91,
+        "reason": "shares technology, entrepreneurship, reading · ambitious×ambitious chemistry"
+      },
+      {
         "id": "p1",
         "name": "Sundar Pichai",
         "score": 85,
@@ -4390,10 +4592,28 @@
         "reason": "shares entrepreneurship, reading, traveling · ambitious×ambitious chemistry"
       },
       {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 85,
+        "reason": "shares entrepreneurship, reading, traveling · ambitious×ambitious chemistry"
+      },
+      {
         "id": "p3",
         "name": "Arianna Huffington",
         "score": 84,
         "reason": "shares reading, traveling · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 82,
+        "reason": "shares entrepreneurship, reading, traveling · ambitious×intellectual chemistry"
+      },
+      {
+        "id": "p16",
+        "name": "Simon Sinek",
+        "score": 82,
+        "reason": "shares thinking, speaking, writing · ambitious×intellectual chemistry"
       },
       {
         "id": "p7",
@@ -4408,6 +4628,12 @@
         "reason": "shares trends, innovation · ambitious×ambitious chemistry"
       },
       {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 80,
+        "reason": "shares entrepreneurship, traveling · ambitious×ambitious chemistry"
+      },
+      {
         "id": "p13",
         "name": "Mark Cuban",
         "score": 79,
@@ -4420,362 +4646,332 @@
         "reason": "shares technology, reading · ambitious×intellectual chemistry"
       },
       {
+        "id": "p23",
+        "name": "Seth Godin",
+        "score": 76,
+        "reason": "shares reading, writing · ambitious×intellectual chemistry"
+      },
+      {
         "id": "p8",
         "name": "Satya Nadella",
         "score": 74,
         "reason": "shares reading · ambitious×ambitious chemistry"
       },
       {
+        "id": "p17",
+        "name": "Mel Robbins",
+        "score": 74,
+        "reason": "shares speaking · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p14",
+        "name": "Jay Shetty",
+        "score": 71,
+        "reason": "shares traveling · ambitious×intellectual chemistry"
+      },
+      {
+        "id": "p22",
+        "name": "Ann Handley",
+        "score": 70,
+        "reason": "shares reading, writing · ambitious×creative chemistry"
+      },
+      {
         "id": "p24",
         "name": "Brené Brown",
         "score": 66,
         "reason": "shares reading, traveling · ambitious×warm chemistry"
-      },
-      {
-        "id": "p11",
-        "name": "Whitney Wolfe Herd",
-        "score": 56,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p14",
-        "name": "Jay Shetty",
-        "score": 56,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p15",
-        "name": "Tim Ferriss",
-        "score": 56,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p16",
-        "name": "Simon Sinek",
-        "score": 56,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p17",
-        "name": "Mel Robbins",
-        "score": 56,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p20",
-        "name": "Barbara Corcoran",
-        "score": 56,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p22",
-        "name": "Ann Handley",
-        "score": 56,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p23",
-        "name": "Seth Godin",
-        "score": 56,
-        "reason": "ambitious×reserved chemistry"
-      },
-      {
-        "id": "p25",
-        "name": "Lewis Howes",
-        "score": 56,
-        "reason": "ambitious×reserved chemistry"
       }
     ],
     "p22": [
       {
-        "id": "p24",
-        "name": "Brené Brown",
+        "id": "p23",
+        "name": "Seth Godin",
         "score": 96,
-        "reason": "reserved×warm chemistry"
+        "reason": "shares marketing, writing, reading · creative×intellectual chemistry"
       },
       {
         "id": "p2",
         "name": "Bill Gates",
-        "score": 88,
-        "reason": "reserved×intellectual chemistry"
-      },
-      {
-        "id": "p11",
-        "name": "Whitney Wolfe Herd",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p14",
-        "name": "Jay Shetty",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p15",
-        "name": "Tim Ferriss",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p16",
-        "name": "Simon Sinek",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p17",
-        "name": "Mel Robbins",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p20",
-        "name": "Barbara Corcoran",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p23",
-        "name": "Seth Godin",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p25",
-        "name": "Lewis Howes",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p1",
-        "name": "Sundar Pichai",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p3",
-        "name": "Arianna Huffington",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "score": 89,
+        "reason": "shares reading, collecting · creative×intellectual chemistry"
       },
       {
         "id": "p4",
         "name": "Richard Branson",
-        "score": 73,
-        "reason": "reserved×adventurous chemistry"
+        "score": 85,
+        "reason": "shares reading, collecting · creative×adventurous chemistry"
+      },
+      {
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 83,
+        "reason": "shares reading · creative×intellectual chemistry"
+      },
+      {
+        "id": "p16",
+        "name": "Simon Sinek",
+        "score": 83,
+        "reason": "shares writing · creative×intellectual chemistry"
+      },
+      {
+        "id": "p24",
+        "name": "Brené Brown",
+        "score": 78,
+        "reason": "shares reading · creative×warm chemistry"
       },
       {
         "id": "p5",
         "name": "Gary Vaynerchuk",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p6",
-        "name": "Reid Hoffman",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p7",
-        "name": "Melinda French Gates",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p8",
-        "name": "Satya Nadella",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p9",
-        "name": "Sheryl Sandberg",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p10",
-        "name": "Marc Benioff",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p12",
-        "name": "Neil Patel",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p13",
-        "name": "Mark Cuban",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p18",
-        "name": "Steven Bartlett",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p19",
-        "name": "Daymond John",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "score": 77,
+        "reason": "shares marketing, reading · creative×ambitious chemistry"
       },
       {
         "id": "p21",
         "name": "Guy Kawasaki",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "score": 77,
+        "reason": "shares writing, reading · creative×ambitious chemistry"
+      },
+      {
+        "id": "p3",
+        "name": "Arianna Huffington",
+        "score": 76,
+        "reason": "shares reading · needs line up · creative×ambitious chemistry"
+      },
+      {
+        "id": "p14",
+        "name": "Jay Shetty",
+        "score": 76,
+        "reason": "creative×intellectual chemistry"
+      },
+      {
+        "id": "p1",
+        "name": "Sundar Pichai",
+        "score": 70,
+        "reason": "shares reading · creative×ambitious chemistry"
+      },
+      {
+        "id": "p6",
+        "name": "Reid Hoffman",
+        "score": 70,
+        "reason": "shares reading · creative×ambitious chemistry"
+      },
+      {
+        "id": "p7",
+        "name": "Melinda French Gates",
+        "score": 70,
+        "reason": "shares reading · creative×ambitious chemistry"
+      },
+      {
+        "id": "p8",
+        "name": "Satya Nadella",
+        "score": 70,
+        "reason": "shares reading · creative×ambitious chemistry"
+      },
+      {
+        "id": "p9",
+        "name": "Sheryl Sandberg",
+        "score": 70,
+        "reason": "shares reading · creative×ambitious chemistry"
+      },
+      {
+        "id": "p10",
+        "name": "Marc Benioff",
+        "score": 70,
+        "reason": "shares reading · creative×ambitious chemistry"
+      },
+      {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 70,
+        "reason": "shares reading · creative×ambitious chemistry"
+      },
+      {
+        "id": "p13",
+        "name": "Mark Cuban",
+        "score": 70,
+        "reason": "shares reading · creative×ambitious chemistry"
+      },
+      {
+        "id": "p18",
+        "name": "Steven Bartlett",
+        "score": 70,
+        "reason": "shares reading · creative×ambitious chemistry"
+      },
+      {
+        "id": "p19",
+        "name": "Daymond John",
+        "score": 70,
+        "reason": "shares reading · creative×ambitious chemistry"
+      },
+      {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 70,
+        "reason": "shares reading · creative×ambitious chemistry"
+      },
+      {
+        "id": "p12",
+        "name": "Neil Patel",
+        "score": 63,
+        "reason": "creative×ambitious chemistry"
+      },
+      {
+        "id": "p17",
+        "name": "Mel Robbins",
+        "score": 63,
+        "reason": "creative×ambitious chemistry"
+      },
+      {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 63,
+        "reason": "creative×ambitious chemistry"
       }
     ],
     "p23": [
       {
-        "id": "p24",
-        "name": "Brené Brown",
+        "id": "p22",
+        "name": "Ann Handley",
         "score": 96,
-        "reason": "reserved×warm chemistry"
+        "reason": "shares marketing, writing, reading · intellectual×creative chemistry"
       },
       {
         "id": "p2",
         "name": "Bill Gates",
-        "score": 88,
-        "reason": "reserved×intellectual chemistry"
-      },
-      {
-        "id": "p11",
-        "name": "Whitney Wolfe Herd",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p14",
-        "name": "Jay Shetty",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
+        "score": 94,
+        "reason": "shares change, reading · intellectual×intellectual chemistry"
       },
       {
         "id": "p15",
         "name": "Tim Ferriss",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
+        "score": 93,
+        "reason": "shares reading · needs line up · intellectual×intellectual chemistry"
       },
       {
         "id": "p16",
         "name": "Simon Sinek",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p17",
-        "name": "Mel Robbins",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p20",
-        "name": "Barbara Corcoran",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p22",
-        "name": "Ann Handley",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p25",
-        "name": "Lewis Howes",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p1",
-        "name": "Sundar Pichai",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p3",
-        "name": "Arianna Huffington",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p4",
-        "name": "Richard Branson",
-        "score": 73,
-        "reason": "reserved×adventurous chemistry"
+        "score": 87,
+        "reason": "shares writing · intellectual×intellectual chemistry"
       },
       {
         "id": "p5",
         "name": "Gary Vaynerchuk",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p6",
-        "name": "Reid Hoffman",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p7",
-        "name": "Melinda French Gates",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p8",
-        "name": "Satya Nadella",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p9",
-        "name": "Sheryl Sandberg",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p10",
-        "name": "Marc Benioff",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p12",
-        "name": "Neil Patel",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p13",
-        "name": "Mark Cuban",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p18",
-        "name": "Steven Bartlett",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p19",
-        "name": "Daymond John",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "score": 85,
+        "reason": "shares marketing, reading · intellectual×ambitious chemistry"
       },
       {
         "id": "p21",
         "name": "Guy Kawasaki",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "score": 85,
+        "reason": "shares writing, reading · intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p6",
+        "name": "Reid Hoffman",
+        "score": 84,
+        "reason": "shares reading · needs line up · intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p14",
+        "name": "Jay Shetty",
+        "score": 80,
+        "reason": "intellectual×intellectual chemistry"
+      },
+      {
+        "id": "p1",
+        "name": "Sundar Pichai",
+        "score": 78,
+        "reason": "shares reading · intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p3",
+        "name": "Arianna Huffington",
+        "score": 78,
+        "reason": "shares reading · intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p7",
+        "name": "Melinda French Gates",
+        "score": 78,
+        "reason": "shares reading · intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p8",
+        "name": "Satya Nadella",
+        "score": 78,
+        "reason": "shares reading · intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p9",
+        "name": "Sheryl Sandberg",
+        "score": 78,
+        "reason": "shares reading · intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p10",
+        "name": "Marc Benioff",
+        "score": 78,
+        "reason": "shares reading · intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p11",
+        "name": "Whitney Wolfe Herd",
+        "score": 78,
+        "reason": "shares reading · intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p13",
+        "name": "Mark Cuban",
+        "score": 78,
+        "reason": "shares reading · intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p18",
+        "name": "Steven Bartlett",
+        "score": 78,
+        "reason": "shares reading · intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p19",
+        "name": "Daymond John",
+        "score": 78,
+        "reason": "shares reading · intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 78,
+        "reason": "shares reading · intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p12",
+        "name": "Neil Patel",
+        "score": 72,
+        "reason": "intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p17",
+        "name": "Mel Robbins",
+        "score": 72,
+        "reason": "intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 72,
+        "reason": "intellectual×ambitious chemistry"
+      },
+      {
+        "id": "p4",
+        "name": "Richard Branson",
+        "score": 66,
+        "reason": "shares reading · intellectual×adventurous chemistry"
+      },
+      {
+        "id": "p24",
+        "name": "Brené Brown",
+        "score": 66,
+        "reason": "shares reading · intellectual×warm chemistry"
       }
     ],
     "p24": [
@@ -4796,6 +4992,30 @@
         "name": "Steven Bartlett",
         "score": 89,
         "reason": "shares personal, development, reading · warm×ambitious chemistry"
+      },
+      {
+        "id": "p25",
+        "name": "Lewis Howes",
+        "score": 88,
+        "reason": "shares personal, development, traveling · needs line up · warm×ambitious chemistry"
+      },
+      {
+        "id": "p15",
+        "name": "Tim Ferriss",
+        "score": 82,
+        "reason": "shares personal, reading, traveling · warm×intellectual chemistry"
+      },
+      {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 82,
+        "reason": "shares reading, yoga, traveling · warm×ambitious chemistry"
+      },
+      {
+        "id": "p22",
+        "name": "Ann Handley",
+        "score": 81,
+        "reason": "shares reading · warm×creative chemistry"
       },
       {
         "id": "p4",
@@ -4831,31 +5051,13 @@
         "id": "p11",
         "name": "Whitney Wolfe Herd",
         "score": 74,
-        "reason": "warm×reserved chemistry"
+        "reason": "shares reading, traveling · warm×ambitious chemistry"
       },
       {
         "id": "p14",
         "name": "Jay Shetty",
         "score": 74,
-        "reason": "warm×reserved chemistry"
-      },
-      {
-        "id": "p15",
-        "name": "Tim Ferriss",
-        "score": 74,
-        "reason": "warm×reserved chemistry"
-      },
-      {
-        "id": "p16",
-        "name": "Simon Sinek",
-        "score": 74,
-        "reason": "warm×reserved chemistry"
-      },
-      {
-        "id": "p17",
-        "name": "Mel Robbins",
-        "score": 74,
-        "reason": "warm×reserved chemistry"
+        "reason": "shares yoga, traveling · warm×intellectual chemistry"
       },
       {
         "id": "p19",
@@ -4864,34 +5066,10 @@
         "reason": "shares reading, traveling · warm×ambitious chemistry"
       },
       {
-        "id": "p20",
-        "name": "Barbara Corcoran",
-        "score": 74,
-        "reason": "warm×reserved chemistry"
-      },
-      {
         "id": "p21",
         "name": "Guy Kawasaki",
         "score": 74,
         "reason": "shares reading, traveling · warm×ambitious chemistry"
-      },
-      {
-        "id": "p22",
-        "name": "Ann Handley",
-        "score": 74,
-        "reason": "warm×reserved chemistry"
-      },
-      {
-        "id": "p23",
-        "name": "Seth Godin",
-        "score": 74,
-        "reason": "warm×reserved chemistry"
-      },
-      {
-        "id": "p25",
-        "name": "Lewis Howes",
-        "score": 74,
-        "reason": "warm×reserved chemistry"
       },
       {
         "id": "p1",
@@ -4918,6 +5096,24 @@
         "reason": "shares reading · warm×ambitious chemistry"
       },
       {
+        "id": "p16",
+        "name": "Simon Sinek",
+        "score": 67,
+        "reason": "shares leadership · warm×intellectual chemistry"
+      },
+      {
+        "id": "p17",
+        "name": "Mel Robbins",
+        "score": 67,
+        "reason": "shares psychology · warm×ambitious chemistry"
+      },
+      {
+        "id": "p23",
+        "name": "Seth Godin",
+        "score": 67,
+        "reason": "shares reading · warm×intellectual chemistry"
+      },
+      {
         "id": "p12",
         "name": "Neil Patel",
         "score": 60,
@@ -4926,148 +5122,148 @@
     ],
     "p25": [
       {
-        "id": "p24",
-        "name": "Brené Brown",
+        "id": "p3",
+        "name": "Arianna Huffington",
         "score": 96,
-        "reason": "reserved×warm chemistry"
+        "reason": "shares development, wellness, traveling · needs line up · ambitious×ambitious chemistry"
       },
       {
-        "id": "p2",
-        "name": "Bill Gates",
-        "score": 88,
-        "reason": "reserved×intellectual chemistry"
+        "id": "p9",
+        "name": "Sheryl Sandberg",
+        "score": 96,
+        "reason": "shares personal, development, traveling · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p18",
+        "name": "Steven Bartlett",
+        "score": 96,
+        "reason": "shares personal, development, traveling · needs line up · ambitious×ambitious chemistry"
       },
       {
         "id": "p11",
         "name": "Whitney Wolfe Herd",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p14",
-        "name": "Jay Shetty",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
+        "score": 95,
+        "reason": "shares entrepreneurship, traveling · needs line up · ambitious×ambitious chemistry"
       },
       {
         "id": "p15",
         "name": "Tim Ferriss",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p16",
-        "name": "Simon Sinek",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p17",
-        "name": "Mel Robbins",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p20",
-        "name": "Barbara Corcoran",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p22",
-        "name": "Ann Handley",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p23",
-        "name": "Seth Godin",
-        "score": 81,
-        "reason": "reserved×reserved chemistry"
-      },
-      {
-        "id": "p1",
-        "name": "Sundar Pichai",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p3",
-        "name": "Arianna Huffington",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p4",
-        "name": "Richard Branson",
-        "score": 73,
-        "reason": "reserved×adventurous chemistry"
+        "score": 93,
+        "reason": "shares personal, entrepreneurship, podcasting · ambitious×intellectual chemistry"
       },
       {
         "id": "p5",
         "name": "Gary Vaynerchuk",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "score": 91,
+        "reason": "shares entrepreneurship, podcasting, traveling · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p4",
+        "name": "Richard Branson",
+        "score": 90,
+        "reason": "shares entrepreneurship, sports, traveling · needs line up · ambitious×adventurous chemistry"
       },
       {
         "id": "p6",
         "name": "Reid Hoffman",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "score": 90,
+        "reason": "shares entrepreneurship, traveling · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p20",
+        "name": "Barbara Corcoran",
+        "score": 90,
+        "reason": "shares entrepreneurship, traveling · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p10",
+        "name": "Marc Benioff",
+        "score": 85,
+        "reason": "shares entrepreneurship, traveling · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p19",
+        "name": "Daymond John",
+        "score": 85,
+        "reason": "shares entrepreneurship, traveling · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p21",
+        "name": "Guy Kawasaki",
+        "score": 85,
+        "reason": "shares entrepreneurship, traveling · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p1",
+        "name": "Sundar Pichai",
+        "score": 84,
+        "reason": "shares entrepreneurship · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p13",
+        "name": "Mark Cuban",
+        "score": 84,
+        "reason": "shares sports · needs line up · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p24",
+        "name": "Brené Brown",
+        "score": 81,
+        "reason": "shares personal, development, traveling · needs line up · ambitious×warm chemistry"
       },
       {
         "id": "p7",
         "name": "Melinda French Gates",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "score": 79,
+        "reason": "shares traveling · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p17",
+        "name": "Mel Robbins",
+        "score": 79,
+        "reason": "shares podcasting · ambitious×ambitious chemistry"
+      },
+      {
+        "id": "p14",
+        "name": "Jay Shetty",
+        "score": 75,
+        "reason": "shares traveling · ambitious×intellectual chemistry"
       },
       {
         "id": "p8",
         "name": "Satya Nadella",
         "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p9",
-        "name": "Sheryl Sandberg",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
-      },
-      {
-        "id": "p10",
-        "name": "Marc Benioff",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "reason": "ambitious×ambitious chemistry"
       },
       {
         "id": "p12",
         "name": "Neil Patel",
         "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "reason": "ambitious×ambitious chemistry"
       },
       {
-        "id": "p13",
-        "name": "Mark Cuban",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "id": "p2",
+        "name": "Bill Gates",
+        "score": 69,
+        "reason": "ambitious×intellectual chemistry"
       },
       {
-        "id": "p18",
-        "name": "Steven Bartlett",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "id": "p16",
+        "name": "Simon Sinek",
+        "score": 69,
+        "reason": "ambitious×intellectual chemistry"
       },
       {
-        "id": "p19",
-        "name": "Daymond John",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "id": "p23",
+        "name": "Seth Godin",
+        "score": 69,
+        "reason": "ambitious×intellectual chemistry"
       },
       {
-        "id": "p21",
-        "name": "Guy Kawasaki",
-        "score": 73,
-        "reason": "reserved×ambitious chemistry"
+        "id": "p22",
+        "name": "Ann Handley",
+        "score": 61,
+        "reason": "ambitious×creative chemistry"
       }
     ]
   },
@@ -5285,6 +5481,130 @@
         "They exhibit mutual respect for career ambitions",
         "Their conversational flow shows intellectual curiosity and ambition",
         "They discuss potential collaboration on green AI projects"
+      ]
+    },
+    "p15__p2": {
+      "aId": "p2",
+      "bId": "p15",
+      "aName": "Bill Gates",
+      "bName": "Tim Ferriss",
+      "transcript": [
+        {
+          "speaker": "A",
+          "text": "So, Tim, have you ever considered how the productivity hacks you champion could streamline large-scale philanthropic initiatives?"
+        },
+        {
+          "speaker": "B",
+          "text": "Absolutely, Bill. I’ve been running experiments on batching tasks for my podcast crew—think of it like a lean startup for social impact."
+        },
+        {
+          "speaker": "A",
+          "text": "Interesting. We’ve been exploring AI-driven diagnostics for global health; scaling it efficiently could save millions of lives."
+        },
+        {
+          "speaker": "B",
+          "text": "Mills of lives, yeah. If you can get data pipelines running in a day instead of weeks, the impact multiplies. What’s your go-to optimization?"
+        },
+        {
+          "speaker": "A",
+          "text": "Continuous learning loops—feedback, iteration, and a focus on measurable outcomes. It’s similar to your 4-Hour work week philosophy, but at a global scale."
+        },
+        {
+          "speaker": "B",
+          "text": "I’d love to try a 24-hour sprint on climate tech. Maybe we could co-host a podcast episode about that."
+        }
+      ],
+      "score": 80,
+      "verdict": "A promising intellectual match with shared curiosity but differing priorities.",
+      "reasons": [
+        "Both value lifelong learning and intellectual stimulation",
+        "Both appreciate innovation and impact",
+        "Bill’s focus on philanthropy aligns with Tim’s desire for authenticity",
+        "Potential clash over time commitment and travel intensity",
+        "Conversation flows smoothly, hinting at future collaboration"
+      ]
+    },
+    "p15__p5": {
+      "aId": "p5",
+      "bId": "p15",
+      "aName": "Gary Vaynerchuk",
+      "bName": "Tim Ferriss",
+      "transcript": [
+        {
+          "speaker": "A",
+          "text": "Yo, Tim, I’m stoked to meet you. I’ve been hustling through a new podcast series—think of it as a mini empire in the making."
+        },
+        {
+          "speaker": "B",
+          "text": "Nice to meet you too, Gary. I’ve been running a 4-week experiment on productivity hacks, and I’m curious how your hustle translates into measurable metrics."
+        },
+        {
+          "speaker": "A",
+          "text": "Metrics are the lifeblood of any empire. I track engagement per minute, conversion rates, and I’m always tweaking my content to keep the audience glued."
+        },
+        {
+          "speaker": "B",
+          "text": "That’s fascinating. I use a similar data‑driven approach, but I also obsess over the 80/20 rule and minimalism to avoid burnout. Maybe we can swap notes on the most effective content hacks."
+        },
+        {
+          "speaker": "A",
+          "text": "Absolutely—let’s brainstorm. I’m all about the hustle mindset, but I know the value of a supportive partner who keeps up. How do you handle the travel schedule when you’re on a new experiment?"
+        }
+      ]
+    },
+    "p16__p24": {
+      "aId": "p16",
+      "bId": "p24",
+      "aName": "Simon Sinek",
+      "bName": "Brené Brown",
+      "transcript": [
+        {
+          "speaker": "A",
+          "text": "Hello, I'm Simon. I often think we start by asking why. Why are we here tonight?"
+        },
+        {
+          "speaker": "B",
+          "text": "Hi Simon, I'm Brené. I believe we should be honest about our intentions. I came to explore vulnerability."
+        },
+        {
+          "speaker": "A",
+          "text": "I appreciate that. For me, purpose is the anchor. I'm curious—what's your core purpose?"
+        },
+        {
+          "speaker": "B",
+          "text": "My purpose is to help people see the power of vulnerability. And you?"
+        },
+        {
+          "speaker": "A",
+          "text": "To help others find their 'why' and create meaningful leadership."
+        },
+        {
+          "speaker": "B",
+          "text": "That aligns. I value authenticity. I wonder, how do you handle uncertainty?"
+        },
+        {
+          "speaker": "A",
+          "text": "I see uncertainty as opportunity to learn. I ask teams to ask 'what if' questions. What about you?"
+        },
+        {
+          "speaker": "B",
+          "text": "I embrace uncertainty by staying curious and letting go of shame."
+        },
+        {
+          "speaker": "A",
+          "text": "Sounds like we share a mindset of growth. Perhaps we could co-author a book on purpose and vulnerability."
+        },
+        {
+          "speaker": "B",
+          "text": "I love that idea. Let's keep talking."
+        }
+      ],
+      "score": 85,
+      "verdict": "A promising partnership",
+      "reasons": [
+        "Shared focus on growth and purpose",
+        "Mutual respect for vulnerability and authenticity",
+        "Complementary communication styles"
       ]
     }
   },

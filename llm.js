@@ -6,7 +6,8 @@ const GROQ_KEY = process.env.GROQ_API_KEY?.trim();
 const GEMINI_MODEL = process.env.GEMINI_MODEL?.trim() || 'gemini-3.8-flash';
 const GROQ_MODEL = process.env.GROQ_MODEL?.trim() || 'openai/gpt-oss-20b';
 
-export const PROVIDER = GEMINI_KEY ? 'gemini' : GROQ_KEY ? 'groq' : 'none';
+// Prefer Groq (1000 req/day free) over Gemini free tier (only 20 req/day on current models).
+export const PROVIDER = GROQ_KEY ? 'groq' : GEMINI_KEY ? 'gemini' : 'none';
 
 function stripFences(text) {
   if (!text) return text;
